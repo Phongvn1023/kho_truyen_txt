@@ -1,7 +1,11 @@
 Chương 455: Những Thí Nghiệm Đa Dạng.
+
 Trong khu vực sâu thẳm của Hầm ngục Tử Tinh, một hang động rộng lớn ánh lên ánh sáng mờ ảo. Norris, người được giữ lại sau cuộc họp, đứng đó với hai tay bảo vệ phía trước, mồ hôi lăn dài trên lớp vảy bạc của hắn. Hắn đang đối đầu với một nhóm Puji tinh nhuệ, những sinh vật mới với những xúc tu nấm có thể mô phỏng kiếm đao qua kỹ năng. Mỗi nhát chém, mỗi đòn đâm đều sắc bén và tinh tế, sự phối hợp giữa chúng hoàn hảo như một thể thống nhất, chia sẻ cùng một ý chí chiến đấu vô hình.
+
 Dưới ánh sáng lạnh lẽo, Norris dần bị đẩy vào thế bất lợi. Trong thời gian ngắn, trên lớp vảy của hắn đã xuất hiện thêm vài vết xước mới.
+
 Kỹ năng:
+
 – Kiếm thuật LV10
 
 – Đỡ đòn LV9
@@ -13,37 +17,71 @@ Kỹ năng:
 – Cung thuật LV8
 
 Hầu hết các kỹ năng này đều được chiết xuất từ chiến trường. Thung lũng sụp đổ không thể ngăn cản sự lan rộng của sợi nấm, chưa kể đến những thi thể được cung cấp từ trận chiến phía tây tại Kim Cốc Thành trước đây. Những Puji được trang bị các kỹ năng này, dù thuộc tính có phần thua kém Norris, nhưng dưới sự hỗ trợ của ý chí Lâm Quân, chúng như một thể thống nhất, phối hợp nhịp nhàng, thành công áp đảo Norris.
+
 Tuy nhiên, Lâm Quân không mấy vui vẻ. Những thí nghiệm chiến đấu như vậy đã đến lượt thứ ba. Những kỹ năng kỹ thuật phổ biến giữa con người và Ma Tộc, khi được áp dụng cho Puji, tồn tại những điểm yếu lớn.
+
 Khi Lâm Quân rút ý chí khỏi chiến trường, tình hình thay đổi. Những Puji tinh nhuệ được trang bị Kiếm thuật và các kỹ năng khác vẫn giữ được kỹ năng điêu luyện và tốc độ né tránh, nhưng giống như những con rối được lập trình sẵn, thiếu đi sự linh hoạt và sáng tạo khi đối đầu kẻ thù. Norris, người đã quen thuộc với các trận chiến quy mô nhỏ, nhanh chóng nhận ra sự thay đổi. Sau vài lần thăm dò, hắn tìm được nhịp độ tấn công của Puji và bắt đầu phản công.
+
 Chỉ trong năm phút ngắn ngủi, tất cả những Puji tham gia huấn luyện đều bị chém thành hai mảnh. Norris giành chiến thắng.
+
 Khi trận chiến kết thúc, Norris thở phào nhẹ nhõm, đi đến góc phòng lấy bình nước và uống một ngụm lớn. Những Puji thường đang chờ nhiệm vụ lập tức tiến lên, bắt đầu ghép lại những Puji tinh nhuệ đã bị tiêu diệt. Sau khi sửa chữa, chúng vẫn có thể sử dụng tiếp.
+
 Kết quả không nằm ngoài dự đoán của Lâm Quân. Sự cứng nhắc này chính là vấn đề của Puji.
+
 Bỏ qua kỹ năng Điều Khiển Thuộc Hạ, Puji trong thảm nấm có thể chia làm ba cấp độ thông minh.
+
 Cấp độ đầu tiên là Chế độ điều khiển trực tiếp khi Lâm Quân tự tham chiến.
+
 Những Puji bị điều khiển trở thành phần mở rộng ý chí của Lâm Quân. Mỗi chuyển động của xúc tu nấm, mỗi lần phóng Pháo Nấm, đều tuân theo hình mẫu trong đầu hắn. Sức mạnh trong chế độ này phụ thuộc hoàn toàn vào khả năng chiến thuật và điều khiển tinh tế của Lâm Quân, có giới hạn trên rất cao. Vấn đề duy nhất là nó tiêu tốn rất nhiều sự tập trung của Lâm Quân.
+
 Cấp độ thứ hai có thể gọi là Chế độ chỉ huy.
+
 Lâm Quân bao phủ ý chí lên một khu vực, đưa ra các chỉ thị chi tiết như một số Puji tấn công cánh trái, những Puji khác đánh vòng từ phải. Những Puji nhận được lệnh sẽ dựa trên thư viện kỹ năng của chúng để hành động theo cách phù hợp nhất với ý định của Lâm Quân. Ví dụ như trong trận chiến vừa rồi, Lâm Quân chỉ cần nghĩ Puji này phòng thủ, Puji kia tấn công bên sườn mà không cần cụ thể cách đỡ đòn hay ra đòn, Puji tự động sử dụng Đỡ đòn LV9 hoặc Kiếm thuật LV10 ở mức độ tương ứng.
+
 Chế độ này cân bằng giữa hiệu quả và khả năng kiểm soát, cũng là chế độ Lâm Quân sử dụng phổ biến nhất trong chiến đấu. Nhược điểm là sự tập trung vẫn cần duy trì trên một khu vực và liên tục đưa ra chỉ thị mới. Việc phân tâm điều khiển nhiều khu vực cùng lúc cũng có thể thực hiện, nhưng sẽ mệt mỏi hơn nhiều, lâu dài dễ dẫn đến sai sót.
+
 Cấp độ cuối cùng là Chế độ tự động hoàn toàn, Puji chỉ hành động dưới sự điều khiển tiềm thức của Lâm Quân.
+
 Lâm Quân chỉ thiết lập một hoặc nhiều mục tiêu cuối cùng, sau đó, Puji sẽ hoạt động như máy… Ví dụ như trong giai đoạn cuối của trận chiến vừa rồi, Lâm Quân chỉ đặt một lệnh duy nhất cho những Puji tinh nhuệ: Đánh bại Norris. Kết quả là sức mạnh giảm sút, Norris từ thế bại đã phản công thắng lợi.
+
 Vấn đề này không quá nổi bật khi quân đoàn Puji chủ yếu sử dụng các kỹ năng đơn giản như Tự nổ, Pháo Nấm, Lốc kiếm. Puji chỉ cần tự động khóa mục tiêu và lao lên là được. Nhưng khi được trang bị các kỹ năng như Kiếm thuật, tình hình lại khác. Những Puji tinh nhuệ sản xuất từ cùng lượng ma lực, trong Chế độ chỉ huy của Lâm Quân, có thể thực hiện nhiều chiến thuật phối hợp, phát huy sức mạnh vượt trội so với khi chỉ có các kỹ năng đơn giản.
+
 Nhưng khi chuyển sang Chế độ tự động, những Puji này lại không hiệu quả bằng những Puji chỉ tập trung vào sát thương và phòng thủ. Như vậy, nhiều kỹ năng kỹ thuật chỉ phù hợp để trang bị cho những Puji cấp cao hơn.
+
 Tất nhiên, Lâm Quân có khả năng phân tâm mạnh mẽ, hiện tại vẫn đủ để đáp ứng. Nhưng khi địa bàn mở rộng, từ một hầm ngục đến hai, ba hầm ngục cùng lúc, thậm chí nhiều hơn nữa, những thành phố dưới quyền cũng không thể mãi mãi chỉ có một Pháo đài Nấm. Nhiều ma lực hơn để tạo ra nhiều Puji cấp cao hơn, phân tán đến nhiều nơi, vấn đề thông minh sẽ ngày càng rõ ràng.
+
 Cho đến nay, dường như ngoài việc tự mình chịu khổ ra, Lâm Quân chưa tìm được cách nào khác để giải quyết vấn đề này.
+
+…
+
 Ở một góc khác, Norris đã phục hồi thể lực, thấy rằng sếp có vẻ chưa có ý định mở ngay trận thứ tư.
+
 Hắn cúi xuống, bắt đầu nhặt những vảy của mình văng ra xung quanh, tìm được vài chiếc còn nguyên vẹn.
+
 Ooo——
 
 Khi hắn tiến gần đến một lối vào, một âm thanh cực kỳ yếu nhưng liên tục vang lên, len lỏi vào tai hắn.
+
 Tiếng gió?
+
 Nhưng từ lối vào này không có gió thổi ra. Hắn dừng lại, nghiêng tai nghe. Không đúng, từ sâu trong lối đi không có cảm giác không khí di chuyển, âm thanh đó giống như… tiếng rên?
+
 Norris nhíu mày. Mạng lưới hang động ở khu vực sâu rộng lớn và phức tạp như một mê cung khổng lồ. Khu vực hoạt động mà sếp vạch ra nhiều lắm chỉ khoảng bốn mươi đến năm mươi căn phòng, kết nối với nhau tạo thành khu vực an toàn. Những hang động khác, dù có trải thảm nấm nhưng vì nhiều lý do không được mở cửa.
+
 Ví dụ như một số hang động nằm trong khu vực hoạt động của Địa Trùng, một số môi trường không phù hợp để hoạt động, còn một số có thể chứa đựng bí mật của sếp…
+
 Điều cuối cùng là tin đồn lan truyền trong dân nấm, không có bằng chứng cụ thể.
+
 Quay lại nhìn lần nữa, sếp vẫn đang mải mê với công việc của mình. Một chút tò mò thôi thúc, Norris đi theo hướng âm thanh.
+
 Norris đi sát tường từ từ tiến về phía trước, cuối cùng đến một góc tối, ánh sáng từ hang động bên trong lọt qua khe hở. Tiếng rên khẽ trở nên rõ ràng hơn, đôi khi xen lẫn tiếng đập mạnh của vật nặng.
+
 Ngay khi sắp rẽ góc, một cái vuốt khổng lồ đột nhiên vươn ra từ phía sau góc tường, đập mạnh xuống đất ngay trước mặt hắn!
+
 Cái vuốt vô cùng to lớn, da thịt bị rách nát không tự nhiên, vài mảnh vảy thưa thớt ghim vào trong lớp thịt mục ruỗng, dưới ánh sáng mờ trông càng thêm ghê rợn.
+
 Norris tim đập nhanh hơn, lùi lại nhanh chóng, chuẩn bị tinh thần chiến đấu.
+
 Giọng nói của Lâm Quân đột ngột vang lên trong đầu hắn:
+
 Tiểu Norris, đi lung tung có thể nguy hiểm đấy nhé.
