@@ -1,0 +1,119 @@
+Chương 423: Hạch Tâm Động Lực
+
+Quả nhiên, phía dưới giao diện đã xuất hiện rất nhiều hạng mục cơ sở có thể lựa chọn chế tạo.
+
+【 Dây cương ( cấp một ): có thể thuần dưỡng ma thú dưới cấp một thành thú cưỡi lãnh địa, cung cấp dịch vụ chở khách, thuê mướn cho cư dân lãnh địa, xác suất thành công 50% 】
+
+【 Cánh bay lượn ( loại nhỏ ): dụng cụ vận tải phi hành cấp thấp nhất, có thể phi hành ở tầng trời thấp, tốc độ chậm. 】
+
+【 Ba lô phun khí ( loại nhỏ ): sản phẩm máy móc, khi được đeo trên lưng, có thể mang theo người bay về phía không trung, thao tác khó khăn rất lớn. 】
+
+【 Pháo trùng thiên ( loại nhỏ ): sản phẩm máy móc, trói người ở phía trên rồi trực tiếp châm lửa, thứ này sẽ phóng lên trời cao, có thể đạt tới tốc độ ngày đi ngàn dậm, chạm đất khó khăn rất lớn. 】
+
+Lâm Hữu nhìn phần giới thiệu bên trên dụng cụ vận tải cơ sở này, mà đầy đầu sợi đen.
+
+Nhưng đồng thời hắn cũng cảm thấy cực kỳ ngạc nhiên.
+
+Ở khi biết được thế giới này cũng tồn tại hệ lãnh địa Máy Móc, hắn còn có suy nghĩ rằng nơi đây có cho ra sản phẩm máy móc cùng loại hay không, không nghĩ tới lại có thật!
+
+Chẳng qua Bến Tàu Phi Hành cấp một này được mở khoá không nhiều chủng loại dụng cụ vận tải, hơn nữa trên cơ bản đều là thứ bình thường nhất, chỉ là dụng cụ vận tải loại nhỏ có thể chở một, hai hành khách mà thôi, cả dây cương thuần dưỡng cũng vậy.
+
+Hắn thật sự không tưởng tượng nổi loại ma thú cấp một nào có thể chở người bay lên không trung.
+
+Đúng là chúng nó có thể mang theo người bay là là ở tầng trời thấp, nhưng muốn chân chính mang người lên trời, phải cần tới ma thú cấp cao.
+
+Cho nên Lâm Hữu không chút do dự, đã trực tiếp dùng tài nguyên khoáng thạch còn lại tiến hành thăng cấp Bến Tàu Phi Hành.
+
+Cùng với từng đợt sáng hiện lên, cấp bậc của Bến Tàu Phi Hành cũng càng ngày càng cao, bắt đầu mở khoá các loại dụng cụ vận tải rất cao cấp.
+
+Ví dụ như thảm bay ma pháp, phun ra hai cánh, phù văn phi kiếm, chổi bay ma pháp, khinh khí cầu...
+
+Tóm lại chính là chủng loại đa dạng, ngoại hình không đồng nhất, phương pháp sử dụng và tốc độ cũng như tài liệu chế tạo không hề giống nhau.
+
+Đồng thời, còn hơn rất nhiều bộ phận máy móc hỗ trợ vận chuyển.
+
+Ví dụ như tăng lên trọng tải cho khoang thuyền chở khách, gia tăng tính ổn định cho túi khí của hai cánh phi hành, tăng lên tốc độ của tuabin tăng áp.
+
+Nhưng Lâm Hữu phát hiện ra một điều, mãi cho đến khi hắn nâng kiến trúc lên tới cấp bảy, vẫn không thấy mở khoá bất kỳ dụng cụ vận tải loại lớn nào, thậm chí dụng cụ vận tải loại vừa cũng ít tới đáng thương, chỉ có Khinh Khí Cầu và Thảm Bay được miễn cưỡng tính là loại vừa thôi.
+
+Như vậy xem ra, bản vẽ Phi Thuyền Ma Năng hắn vừa nhận được rất hiếm có. Thứ này có thể trực tiếp chứa đựng 150 người mỗi đợt, dựa theo khối lượng mỗi người 100 cân mà tính, 150 người cũng tương đương với khối lượng 15 ngàn cân.
+
+Bởi vậy, dùng thứ này để chở người hay chở hàng đều cực kỳ tiện dụng.
+
+Dù tốc độ của nó có thể kém hơn binh chủng phi hành, nhưng hơn ở trọng tải.
+
+Hơn nữa, sau này khi cấp bậc của Bến Tàu Phi Hành tăng lên, tốc độ cộng thêm cho dụng cụ vận tải cũng tăng lên cực lớn.
+
+【 Tên kiến trúc: Bến Tàu Phi Hành 】
+
+【 Cấp bậc kiến trúc: cấp bảy 】
+
+【 Công năng kiến trúc: có thể thuần dưỡng thú cưỡi phi hành lãnh địa, hoặc tạo ra dụng cụ vận tải phi hành, cũng có khả năng tiến hành định vị lãnh địa, tăng lên tốc độ phi hành. 】
+
+【 Tốc độ tăng lên: 140% 】
+
+【 Số lượng thú cưỡi: 0/700 】
+
+【 Dụng cụ vận tải loại nhỏ: 0/350 】
+
+【 Dụng cụ vận tải loại vừa: 0/175 】
+
+【 Dụng cụ vận tải loại lớn: 0/70 】
+
+【 Tiêu hao mỗi ngày: 6400 ma năng 】
+
+【 Muốn thăng cấp cần: 10 ngàn tài nguyên gỗ, 10 ngàn tài nguyên đá, 5000 quặng sắt, 5000 quặng đồng, 50 ngàn ma năng, tinh hoa lãnh địa cấp bảy x1 】
+
+Tăng thêm 140%, cũng không phải trực tiếp tăng thêm 1,4 lần.
+
+Mà trên cơ sở vốn có, lại tăng thêm 1,4 lần.
+
+Nói cách khác, tốc độ phi hành cơ sở của Phi Thuyền Ma Năng có thể đạt tới trình độ 144 km.
+
+Tương đương với thời gian hắn từ thành Hoàng Sa đến mấy thành thị xung quanh, chỉ cần hơn nửa giờ một chút.
+
+Nếu chuyển sang tốc độ cao nhất là 288 km, phỏng chừng chỉ cần đi hai mươi phút đã tới nơi rồi, chẳng kém hơn bao nhiêu so với tốc độ phi hành của binh chủng trong tay hắn.
+
+Dù sao lúc trước không có Rêu Cộng Sinh cùng các loại quầng sáng thêm vào, hắn cưỡi Rồng Yêu Vương cũng phải mất nửa giờ trở lên mới tới được các thành thị khác.
+
+- Hiện giờ chỉ thiếu Hạch Tâm Động Lực.
+
+Lâm Hữu vừa lòng tắt đi giao diện, qua một bên ngồi xuống.
+
+Sau đó hắn vừa ăn bữa tối vừa cân nhắc chuyện Hạch Tâm Động
+
+Lực, cũng tiện tay ấn mở kênh khu vực.
+
+Lúc này, bầu trời đã tối đen.
+
+Kênh khu vực bình tĩnh cả một ngày, cũng dần dần trở nên náo nhiệt.
+
+Nhóm lãnh chúa đều xuất hiện, trò chuyện về các loại chuyện bọn họ gặp được gần đây, cũng chia sẻ tình báo, hoặc là khoe khoang chém gió lung tung.
+
+Tóm lại chính là một mảnh lộn xộn.
+
+Lâm Hữu suy tư một lát. Tiếp theo hắn bỏ cái chân gà trên tay xuống, ôm tâm lý muốn thử một lần, đưa vào khung chat một đoạn văn, sau đó trực tiếp gửi ra ngoài.
+
+- Lâm Hữu ( Thành Hoàng Sa ): Các vị lão ca, có ai biết cần phải đi đâu mới kiếm được Hạch Tâm Động Lực hay không?
+
+Hắn chỉ hỏi một chút mà thôi, cho nên cứ đi thẳng vào chủ đề, kiểu gì cũng chẳng thiệt thòi, không mất nổi một sợi tóc.
+
+Thế nhưng khiến cho Lâm Hữu không nghĩ tới chính là, hắn vừa phát ra tin tức, kênh nói chuyện vốn đang náo nhiệt đột nhiên dừng một chút.
+
+Ngay cả đám tin tức đang xẹt qua thật nhanh cũng chậm lại.
+
+Ngay sau đó, tin tức đột nhiên nổ tung.
+
+- Moá nó? Ta không nhìn lầm chứ? Đại lão Lâm Hữu à?
+
+- Cái gì cái gì? Đại lão Lâm Hữu xuất hiện?
+
+- Di? Đúng rồi đó! Ta vừa nhìn thấy tin tức của hắn!
+
+- Chụp ảnh chung lưu niệm...
+
+- Đi thôi! Đại lão chụp bóng!
+
+Cả kênh khu vực ầm ầm một mảnh, hơn nữa cơ bản đều là lãnh chúa cấp sáu lên tiếng.
+
+Những người này, đều đã tận mắt chứng kiến Lâm Hữu phá vỡ ghi chép, một đường leo tới vị trí số một trên bảng xếp hạng cấp sáu vương quốc.
