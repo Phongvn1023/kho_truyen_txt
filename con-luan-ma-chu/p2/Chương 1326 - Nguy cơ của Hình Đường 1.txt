@@ -1,0 +1,95 @@
+Chương 1326. Nguy cơ của Hình Đường 1
+
+Quan Trung Hình Đường nằm tại khe hở của ba nước, mỗi lần có đại chiến giữa ba nước thì Quan Trung Hình Đường đều phải chịu xui xẻo nặng nhất. Nhưng lần này có thể nói Quan Trung Hình Đường bị tai bay vạ gió.
+
+Nếu không vì Sở Hưu, Đông Tề sẽ không tấn công theo hướng Quan Trung Hình Đường, hai bên còn không ít khu vực tiếp giáp, còn có Ngụy Quận.
+
+Nhưng bây giờ ai cũng biết vị đường chủ Quan Trung Hình Đường Sở Nguyên Thăng thật ra chỉ là một con rối, người chấp chưởng chân chính của Quan Trung Hình Đường vẫn là Sở Hưu.
+
+Cho nên Quan Trung Hình Đường cũng trở thành một trong ba vị trí tấn công trọng điểm của Đông Tề. Không đến ba ngày, Quan Trung Hình Đường đã bị đánh chiếm hơn nửa, bị người ta đẩy tới dưới Quan Trung Thành.
+
+Lúc này dưới Quan Trung Thành, vài vạn binh mã đã bao vây bốn phương tám hướng của Quan Trung Hình Đường, hướng thành đông là đông người nhất, chính giữa còn có một chiếc chiến xa khổng lồ, trang trí rực rỡ.
+
+Lúc này trên chiến xa là một nam tử trung niên lười biếng người mặc chiến giáp nhưng lại cầm chén rượu, để hai nhúm ria mép. Nhìn bộ dáng hắn không giống như đến đánh trận mà như đang xem trò vui.
+
+Nhưng lai lịch của người này lại không tầm thường, hắn chính là đại tướng quân Vũ Lâm Quân của Đông Tề, Nam Cung Vệ Vũ. Trong trong chín nhánh quân chủ lực của Đông Tề ở biên cương, thực lực của Vũ Lâm Quân có thể coi là đứng hạng ba.
+
+Quân chế của Đông Tề không khác lắm so với Bắc Yên, nhưng bên phía Bắc Yên chỉ có Trấn Quốc Ngũ Quân là sức chiến đấu tạm ổn, còn Đông Tề có Cửu Biên Cường Quân, thực lực gần gấp đôi Bắc Yên.
+
+Đương nhiên địa phận của Đông Tề rất rộng cho nên Cửu Biên Cường Quân cũng thường xuyên đóng quân ở chín khu vực biên giới quan trọng, trừ phi có chiến tranh diệt quốc, không thì không cách nào gom đủ.
+
+Nam Cung Vệ Vũ và Bắc Cung Bách Lý đối đầu với nhau đã lâu, thậm chí cái tên của hai bên cũng cực kỳ đối lập, chẳng khác nào đối thủ trời sinh.
+
+Trong trận Đông Tề công Yến phạt Sở lần trước, Nam Cung Vệ Vũ đã chịu thiệt nhỏ dưới tay Bắc Cung Bách Lý, lần này hắn vốn định lấy lại thể diện, kết quả cấp trên lại bảo hắn tiến đánh Quan Trung Hình Đường, chuyện này khiến Nam Cung Vệ Vũ có hơi khó chịu, chẳng có gì khó khăn cả.
+
+Lúc này còn có hai người đứng bên cạnh Nam Cung, một người là Thủ Chân Tử của Thuần Dương Đạo Môn, một người là đường chủ Bạch Hổ Đường, Hách Liên Trường Phong.
+
+Ba cường giả Chân Hỏa Luyện Thần, lại thêm Vũ Lâm Quân, tấn công Quan Trung Hình Đường như vậy là đủ coi trọng rồi.
+
+Thủ Chân Tử cau mày nói: “Nam Cung tướng quân, có thể ra lệnh công thành được chưa? Ngươi bố trí trận thế rồi ngồi đây uống rượu là có ý gì?”
+
+Nam Cung Vệ Vũ liếc sang Thủ Chân Tử một cái, không nói gì. hành động này khiến Thủ Chân Tử càng thêm tức giận.
+
+“Nam Cung tướng quân, rốt cuộc ngươi có ý gì?”
+
+Nam Cung Vệ Vũ đặt chén rượu xuống hừ lạnh nói: “Đạo trưởng có ý kiến với ta à?”
+
+“Đương nhiên là có!
+
+Thuần Dương Đạo Môn phái bần đạo tới là để hỗ trợ tướng quân, kết quả ngươi lại ở đây trì hoãn thời gian.
+
+Phải cho một đòn như sấm đánh, nhân lúc đám người Ma đạo trở tay không kịp mà giết chết. Cứ kéo dài như vậy vạn nhất có biến cố gì thì sao?”
+
+Nam Cung Vệ Vũ vỗ tay một cái nói: “Đạo trưởng nói rất có lý, vậy thì tốt, ngươi tới làm đại tướng quân đi, ngươi chỉ huy đi, ngươi làm đi.”
+
+Nói xong, không ngờ Nam Cung Vệ Vũ đứng dậy định bỏ đi. Hách Liên Trường Phong đứng bên cạnh xem trò hay vội vàng kéo hắn lại nói: “Nam Cung huynh, Thủ Chân đạo trưởng không có ý này, ngươi đừng tức giận.
+
+Người giang hồ chúng ta không hiểu quân trận, ngươi giải thích cho đạo trưởng một chút là đạo trưởng sẽ hiểu ngay thôi!”
+
+Lúc này Thủ Chân Tử cũng giận tới phát run.
+
+Hắn chưa từng gặp ai lưu manh như vậy, đúng là khó đối phó.
+
+Nhưng vì kế hoạch của Thuần Dương Đạo Môn, hắn cũng cố nhịn, không lên tiếng.
+
+Nam Cung Vệ Vũ ở bên kia lại hừ lạnh một tiếng nói: “Không hiểu thì đừng chỉ huy linh tinh, bản quan ghét nhất là người ngoài nghề chỉ đạo người trong nghề.
+
+Niệm kinh vẽ bùa thì ta không bằng đám đạo sĩ các ngươi, chẳng lẽ hành quân bày trận cũng không bằng?
+
+Các ngươi có biết bây giờ trong Quan Trung Hình Đường đang có bao nhiêu người tập trung không? Gần mười vạn võ giả Quan Trung Hình Đường đều ở trong đó.
+
+Lúc trước chúng ta không gặp chống cự ở những nơi khác là vì Quan Trung Hình Đường đã tập trung hết nhân lực tinh nhuệ ở bốn phía Quan Đông, Quan Nam, Quan Trung, Quan Bắc về trong Quan Trung Thành.
+
+Đây là gần mười vạn võ giả, đều là bộ đầu bộ khoái giang hồ, trên tay ai cũng dính máu. Tuy bọn họ không phải người trong quân trận nhưng thực lực đều không kém.
+
+Bản quan có thể thắng được, nhưng sau khi thắng thì sao? Đó là gần mười vạn võ giả chứ không phải mười vạn con heo. Cứ thế xông tới thì Vũ Lâm Quân của ta sẽ tổn thất bao nhiêu?
+
+Những người này là đồng đội của bản quan, các ngươi không xót thì bản quan xót!”
+
+Hách Liên Trường Phong cười cười nói: “Hóa ra là thế, nhưng Nam Cung huynh chờ đợi như vậy là có kế sách gì?”
+
+Nam Cung Vệ Vũ híp mắt nói: “Đã từng nghe chuyện huấn luyện chim ưng chưa?
+
+Ngươi chưa từng cảm thụ áp lực khi đại quân áp sát, cho dù có mạnh hơn nữa cũng không chịu nổi áp lực đó.
+
+Nếu ta trực tiếp xuất thủ, đối phương còn có thể nóng máu liều mạng, khiến Vũ Lâm Quân tổn thất cực lớn.
+
+Nhưng đợi đến lúc ta khiến máu nóng của bọn họ hao sạch, chỉ còn lại hoảng sợ, mọi chuyện sẽ đơn giản hơn nhiều.
+
+Đao rời vỏ không đáng sợ, đáng sợ nhất là đao giấu trong vỏ!”
+
+(Thời cổ đại và phong kiến ở Trung Quốc có riêng một nghề gọi là "ngao ưng" - huấn luyện chim ưng.
+
+Cách huấn luyện của họ nhìn chung là sẽ bắt nhốt con chim và bào mòn ý chí, khiến nó phải nhượng bộ mà nghe lời. Những người "ngao ưng" sau khi nhốt chim vào lồng sẽ để thức ăn, nước uống ngoài tầm với của nó, rồi một lúc sau mới đích thân vào cho ăn.
+
+Con chim kiêu hãnh lúc đầu sẽ không thèm đoái hoài đến đồ ăn và chỉ muốn tấn công người huấn luyện, nhưng đến ngày thứ hai, thứ ba, nó sẽ lả đi vì đói.
+
+Tuy nhiên, người huấn luyện vẫn  không để nó nghỉ ngơi mà liên tục lấy que gỗ kích thích mí mắt, khiến con chim không thể ngủ yên.
+
+Đến ngày thứ tư, người "ngao ưng" bắt đầu mô phỏng tiếng hú của nhiều loài thú khác, khiến con chim ưng cảm thấy cô đơn. Lúc này, tinh thần chiến đấu của chim đã giảm sút, người huấn luyện sẽ... ôm nó vào lòng, ủ ấm cho nó. Con chim ưng lúc này cư xử rất ngoan ngoãn và ăn loại thịt mà người huấn luyện đưa cho. Lúc này, quy trình "ngao ưng" coi như đã thành công.)
+
+Nghe Nam Cung Vệ Vũ giải thích như vậy, Hách Liên Trường Phong và Thủ Chân Tử mới hiểu ý hắn.
+
+Thực ra những võ giả xuất thân giang hồ như bọn họ không suy nghĩ được nhiều như võ giả xuất thân quân đội như Nam Cung Vệ Vũ.
+
+Tông môn giao chiến, cho dù là loại tông môn cỡ lớn trên vạn người, khi ra tay cũng là cùng nhau tiến lên, so đấu thực lực tổng hợp, không có nhiều các thức quanh co lòng vòng.

@@ -1,0 +1,103 @@
+Chương 1462. Thời điểm lên mặt làm màu 2
+
+Trong Đại La Thiên thiên địa nguyên khí nồng đậm phong phú, khiến cho võ giả thăng cấp hết sức dễ dàng.
+
+Nhưng điều này cũng khiến cho các võ giả Đại La Thiên lý giải về võ đạo không tương xứng với cảnh giới của mình, thường khá thấp, bị một người ngoài nghề như Sở Hưu lừa tới mức ngây ngẩn.
+
+Thật ra nếu nói nghiêm chỉnh thì không phải Sở Hưu đang lừa dối bọn họ.
+
+Y đã chứng kiến các cường giả kiếm đạo, đúng là phát huy tín niệm kiếm đạo của bản thân tới mức cực hạn, cũng không ít người làm tới mức ngoài kiếm ra không có gì khác.
+
+Chẳng qua những người này đều đứng trên đỉnh cao kiếm đạo dưới hạ giới, với trình độ của đám người Cửu Phượng Kiếm Tông, cho dù bọn họ có biết cũng không cách nào đạt tới cảnh giới này.
+
+Ví dụ như cửa ải Thiên Địa Thông Huyền, không đến mức người người trên giang hồ đều biết, chí ít chỉ cần là võ giả có truyền thừa đối phương đều sẽ biết.
+
+Nhưng biết thì biết, có mấy ai có tư cách đặt chân lên cảnh giới đỉnh phong Thiên Địa Thông Huyền?
+
+Lúc này toàn bộ đại điện bỗng trở nên tĩnh lặng, trừ Triệu Lương Ngọc nhìn Sở Hưu với vẻ khó chịu, đám người Lâm Nhai Tử và Lâm Phượng Vũ đã ngây ra tại chỗ, trong lòng không ngừng suy tư, càng nghĩ càng kinh hãi.
+
+Nửa ngày sau Lâm Nhai Tử mới thở dài một tiếng, đứng dậy, trịnh trọng thi lễ với Sở Hưu nói: “Sở huynh đệ không hổ danh truyền nhân của Cổ Tôn, nghe ngài nói một bổ còn hơn mười năm đọc kiếm phổ!”
+
+Lâm Nhai Tử có nhiều mưu kế thế nào thì cũng là chưởng môn của một phái, cũng là một võ giả, hắn thật sự bái phục những lý luận mà Sở Hưu vừa nói.
+
+Sống tại Đông Vực, trước đây Lâm Nhai Tử cũng từng tới một số đại phái đỉnh phong tại Đông Vực như Lãng Tiêu Tông, Hoàng Thiên Các, nghe cường giả cảnh giới Thiên Địa Thông Huyền giảng đạo.
+
+Nhưng hắn lại cảm thấy những lời Sở Hưu vừa giảng tuy rất ngắn gọn nhưng ẩn chứa nội dung phong phú, càng nghĩ càng khiến người ta kinh ngạc.
+
+Lúc này hắn đã gần như xác nhận, người trước mắt chính là truyền nhân của Cổ Tôn.
+
+Võ giả tu luyện kiếm đạo bình thường không thể nói ra những lời như vậy được, hơn nữa trong điển tịch kiếm đạo cũng không ghi lại những cảm ngộ như vậy.
+
+Sau khi nghi ngờ về Sở Hưu yếu bớt, thái độ của Lâm Nhai Tử đối với Sở Hưu càng lúc càng nhiệt tình hơn.
+
+Cường giả có danh hiệu Cổ Tôn tuy rất mạnh nhưng thường ẩn cư nơi rừng núi, không nhúng tay vào phân tranh trên giang hồ, cho nên lực uy hiếp không lớn như một số cường giả đại phái.
+
+Nhưng tương tự, cũng rất ít người ở thế giới bên ngoài lại chịu đắc tội với cường giả như vậy.
+
+Mỗi vị truyền nhân của Cổ Tôn đặt chân lên giang hồ, nếu đối phương muốn lưu lại trong giang hồ thành lập cơ nghiệp thế lực, vậy xác suất thành công sẽ lớn hơn võ giả bình thường rất nhiều.
+
+Nếu đối phương chỉ hắn hành tẩu rèn luyện, vậy kết giao một chút cũng không có gì bất lợi, để lại chút thiện duyên nhân quả, ai biết lúc nào sẽ dùng tới.
+
+Hai bên nói vài lời khách sáo dối trá, sau đó  hỏi Lâm Nhai Tử: “Lâm chưởng môn, lần này tại hạ rời núi ngoài làm theo yêu cầu của sư phụ bước chân vào giang hồ rèn luyện, ta còn muốn tìm kẻ thù của chi phái ta, tìm đệ tử truyền thừa của đối phương, báo thù cho sư môn. Chẳng hay Lâm chưởng môn từng nghe tới người này chưa?”
+
+Nói đoạn, Sở Hưu lại thuật lại chuyện mà mình đã nói với Lâm Phượng Vũ cho Lâm Nhai Tử.
+
+Lâm Nhai Tử suy nghĩ một chút rồi nói: “Độc Cô Duy Ngã? Sở huynh đệ thứ lỗi, ta cũng chưa từng nghe cái tên này.
+
+Rốt cuộc thực lực của vị cường giả này ra sao, có tư liệu kỹ càng hơn không?”
+
+Sở Hưu gõ bàn nói: “Hắn là người của Ma đạo, chắc là dùng đao, cũng am hiểu binh khí khác.
+
+Còn thực lực của hắn à, ta chỉ có thể nói là so với sư tổ của chi phái chúng ta, thực lực của hắn mạnh hơn, hơn rất nhiều!”
+
+Lâm Nhai Tử nghe vậy không khỏi hít một hơi lạnh, còn mạnh hơn cường giả Cổ Tôn, rốt cuộc là cường giả cỡ nào?
+
+Sở Hưu muốn thăm dò tin tức về Độc Cô Duy Ngã từ chỗ Lâm Nhai Tử, đáng tiếc lại thất bại.
+
+Lâm Nhai Tử cười khổ nói: “Sở huynh đệ, ta thật sự chưa từng nghe tới tên Độc Cô Duy Ngã, trong số những cường giả mà ta biết không vị nào giống như vậy.
+
+Đương nhiên cũng có thể vì tại hạ cô văn quả lậu.
+
+Thật ra lịch sử của Cửu Phượng Kiếm Tông ta cũng không quá dài, chỉ mới hơn bốn trăm năm, qua ba đời người mà thôi.
+
+Tằng tổ phụ của ta chính là đệ tử đại phái Huyền Thiên Cảnh ở Bắc Vực, do một chuyện tình cờ mà tới Phương Lâm Quận của Đông Vực an cư lạc nghiệp.
+
+Thiên phú của tổ phụ ta quá kém, thậm chí không hoàn toàn kế thừa võ đạo của Lâm gia ta, mãi tới khi phụ thân ta ra đời mới coi như quật khởi, hơn nữa thành lập Cửu Phượng Kiếm Tông.
+
+Cho nên ta chỉ biết rất ít về bí mật trên giang hồ.
+
+Nếu Sở huynh đệ hỏi một số chuyện trên giang hồ hiện tại, có lẽ ta còn trả lời được, nhưng chuyện năm trăm năm trước thì ta cũng lực bất tòng tâm.”
+
+Nghe Lâm Nhai Tử nói vậy, Sở Hưu không tiếp tục hỏi đối phương có biết Ninh Huyền Cơ hay không.
+
+Ngay cả Độc Cô Duy Ngã với tính cách như vậy mà còn không lưu lại tên họ, nói chi Ninh Huyền Cơ.
+
+Nhưng Sở Hưu vẫn cảm thấy có gì đó không đúng.
+
+Với tính cách và thực lực của Độc Cô Duy Ngã, cho dù đặt ở đâu cũng là vầng mặt trời chói mắt.
+
+Có lẽ Ninh Huyền Cơ sẽ không lưu lại tiếng tăm quá lớn, nhưng chỉ cần Độc Cô Duy Ngã xuất hiện trên thế giới này, chắc chắn hắn sẽ không làm loại người vô danh.
+
+Cửu Phượng Kiếm Tông quá nhỏ, có lẽ không biết về một số bí ẩn lớn, xem ra mình nên tìm hiểu sâu hơn về Đại La Thiên mới được.
+
+Lúc này Lâm Nhai Tử lại thận trọng dò xét Sở Hưu: “Lần này Sở huynh đệ hành tẩu giang hồ, chẳng hay mục đích chủ yếu là gì?”
+
+Sở Hưu gãi đầu ra vẻ đang phiền não nói: “Gia sư nói thực lực của ta tiến bộ quá nhanh, tâm cảnh theo không kịp thực lực, cứ tiếp tục như vậy sẽ ảnh hưởng tới thời gian tu luyện tiếp theo cho nên bảo ta tạm thời không tăng cường tu vi, bước vào giang hồ trọc thế, hồng trần luyện tâm. Lúc nào cảm thấy tâm cảnh của mình tương xứng với thực lực mới có thể trở về, tiện đó tìm truyền nhân của kẻ thù rửa nhục.”
+
+Đệ tử Cửu Phượng Kiếm Tông ở bên dưới nghe mà trợn mắt há hốc mồm, lần đầu tiên bọn họ nghe có người lại thấy ghét bỏ thực lực của mình tiến bộ quá nhanh.
+
+Triệu Lương Ngọc bĩu môi, cho rằng người này đúng là vô sỉ, có ai khoác lác là thực lực của mình tiến bộ quá nhanh?
+
+Nhưng Lâm Nhai Tử lại cảm thấy rất bình thường.
+
+Sở Hưu trẻ tuổi như vậy nhưng ngay cả hắn cũng không nhìn thấy thực lực của y, trừ Cổ Tôn ra còn ai dạy được đệ tử xuất sắc như vậy?
+
+Huống chi cho dù như vậy, có lẽ những cường giả Cổ Tôn kia còn không hài lòng.
+
+Bọn họ chỉ chọn một đệ tử, nhất mạch đơn truyền, phải là loại ưu tú tới cực hạn, không thể có chút tì vết nào.
+
+Đối với những võ giả khác có lẽ tâm cảnh là thứ rất quái đản, nhưng nếu là truyền nhân của Cổ Tôn lại rất quan trọng.
+
+Lâm Nhai Tử lôi kéo Sở Hưu nói: “Sở huynh đệ là truyền nhân của Cổ Tôn, về mặt tu luyện võ đạo, nếu tại hạ nói ra đề nghị gì thì đúng là tự chuốc lấy nhục.
+
+Nhưng nếu Sở huynh đệ cần rèn luyện trên giang hồ, ta có thể cho ngươi một đề nghị.
