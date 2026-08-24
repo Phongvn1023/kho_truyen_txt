@@ -1,0 +1,93 @@
+Chương 230: Đại án 10 năm trước
+
+Tiểu Đào cảm thấy nếu tùy tiện dò xét sẽ rất dễ bị lộ, nếu người này là thành viên của trang web bí mật kia, chắc chắn rất cẩn trọng, biện pháp tối ưu trước mắt là để Lão Yêu ra tay.
+
+Tôi gọi điện cho Lão Yêu, bật chế độ rảnh tay và nói cho hắn nghe chuyện vừa tìm được, Lão Yêu trả lời: "Được, cứ để ta lo."
+
+Đối với Lão Yêu, thông qua cơ sở dữ liệu của diễn đàn để tìm info của người này dễ như ăn bánh. Nhưng chỉ ít phút sau đó toàn bộ diễn đàn đột ngột biến mất, tôi kinh ngạc hỏi Lão Yêu: "Ngươi có cần khoa trương vậy không, hack toàn bộ diễn đàn?"
+
+Lão Yêu có vẻ gấp gáp nói: "Không phải là ta làm, ta vừa hack vào hệ thống thì cơ sở dữ liệu đối diện bị sập, có một cao thủ đang tỷ thí với ta."
+
+"Có thể khôi phục không?" Tôi tò mò.
+
+Lão Yêu cười khổ: "Nói thế này nhé, ngươi vào một căn nhà ăn trộm đồ, chủ nhà lại cho nổ cả ngôi nhà, ngươi có cách khôi phục sao?"
+
+Tôi thúc giục: "Ngươi cố nghĩ cách gì đi."
+
+Đột nhiên Lão Yêu kêu lên một tiếng: "Láo toét!"
+
+Tất cả đều ngớ người, tôi còn tưởng hắn nói mình, gọi mấy câu Lão Yêu mới đáp: "Tên kia lại dùng ddos tấn công ta, khiến hệ thống của ta bị sập."
+
+Trong mắt tôi Lão Yêu là một cao thủ đại nội về Hacker, vậy mà vẫn có người công kích được hắn. Lòng hiếu thắng của Lão Yêu bị tổn thương, hắn nghiến răng: "Ta cài đặt lại hệ thống cái, con bà nó lần này phải giết tên khốn đó."
+
+Lão Yêu cùng cao thủ hacker kia bắt đầu công kích nhau từ xa, dù nhìn trực tiếp hắn trên màn hình điện thoại nhưng tôi chẳng hiểu lắm, đại khái là gửi virus cho đối phương hay ddos gì đó khiến hệ thống của đối phương tê liệt, cả hai khá ngang tài ngang sức.
+
+Chúng tôi là ngoại đạo, đứng ngoài xem cứ như chó xem tát ao, Tiểu Đào băn khoăn: "Một diễn đàn nhỏ sao lại có chuyên gia hacker như vậy?"
+
+Tôi nói: "Hay là người của trang web bí mật kia, nếu họ lên mạng thì đều có thể bị lộ cho nên một cao thủ hacker sẽ đóng vai trò hộ pháp, phát hiện tin tức bị đánh cắp liền chủ động tấn công?"
+
+Tiểu Đào nói qua điện thoại: "Lão Yêu, đừng khách khí, truy lùng tên kia cho ta."
+
+Lão Yêu chẳng đáp lời, chỉ nghe thấy tiếng gõ bàn phím liên tục không ngừng, một lát sau hắn rốt cuộc mở miệng: "Ta chơi chết hắn rồi, có điều ổ cứng với CPU của ta cũng bị cháy mất, thật tức chết!"
+
+Tiểu Đào gõ bàn nói: "Ta không muốn nghe tình hình chiến sự của ngươi, mau nói xem có phát hiện gì?"
+
+Lão Yêu chậm rãi nói: "Tiểu Đào tỷ tỷ, hắn dùng proxy sever và IP của nước ngoài. Không để lộ địa chỉ IP bản thân là một điều cơ bản của Hacker, đương nhiên ta cũng không để lộ IP thật của mình."
+
+Tiểu Đào mắng: "Ngươi nói thứ này với ta có tác dụng mẹ gì?"
+
+Lão Yêu đáp: "Không nói nữa, ta phải đi mua máy mới đây, bái bai."
+
+Sau đó liền ngắt điện thoại, Tiểu Đào thở dài: "Lại mất dấu, trang web này đề phòng quá nghiêm ngặt."
+
+Tôi nói: "Tôi về bàn bạc với Lão Yêu xem có cách gì khác không, chắc tên hacker kia sẽ không trực 24/24 chứ?"
+
+Đại Lý nói: "Ta nghĩ là có, nhỡ bọn chúng là một nhóm người thì sao."
+
+Lời của Đại Lý không sai, xem ra con đường tấn công qua mạng đã bị đóng chặt, đúng lúc này Băng Tâm chạy vào nói: "Mọi người mau qua đây, tôi có phát hiện quan trọng!"
+
+Thì ra Băng Tâm xét nghiệm được trong cơ thể nạn nhân có lượng lớn chất CO, thành phần chủ yếu trong khí gas, liều lượng đủ để giết chết một người trưởng thành. Nạn nhân chết do ngộ độc khí CO.
+
+Tôi băn khoăn: "Sao lại phải dùng khí CO, hiệu quả đầu độc không cao, chỉ cần có một chút không khí lưu thông nhất định thì nạn nhân sẽ không chết."
+
+Băng Tâm vỗ tay nói: "Muội biết rồi, hiện trường là một căn phòng kín."
+
+Băng Tâm cầm giấy bút vẽ phác hoạ về hiện trường. Lúc đó nạn nhân bị trói hai tay sau lưng, móc sắt móc vào lưỡi, xích sắt nối cái móc với cửa sổ, nạn nhân phải lôi được cánh cửa ra mới có thể sống sót.
+
+Tôi lấy bút sửa lại cửa sổ thành cửa chính, hơn nữa còn là một cánh cửa rất nặng, nghĩ như vậy thì phù hợp hơn.
+
+Tiểu Đào nhìn chằm chằm tờ giấy, cau mày: "Đây thật giống một cảnh trong phim 'The Saw' của Mỹ, cho nạn nhân một cơ hội sống sót, bắt họ phải tự hủy hoại một phần cơ thể."
+
+Tôi phân tích: "Nạn nhân đầu tiên mặc giáp đồng đi trên lửa, nạn nhân thứ hai dùng lưỡi mở cửa quả rất giống phim The Saw. Nhưng hung thủ không hề công bằng giống kẻ phản diện trong bộ phim, bởi hai nạn nhân này gần như không có khả năng sống sót. Da người chỉ cần bị bỏng 70% là sẽ tử vong, trên lưỡi có rất nhiều mạch máu, dù lưỡi không bị kéo ra ngoài cũng chết vì mất máu, đây là công bằng giả tạo."
+
+Tiểu Đào cúi đầu: "Chuyện tới mứ này, tôi cũng chỉ có thể mong đừng có nạn nhân thứ 3."
+
+Nàng bảo tôi với Đại Lý về trước, có gì tiến triển sẽ thông báo sau. Tôi thấy ở lại cũng chẳng giúp được gì nên gật đầu. Tiểu Đào cũng ra ngoài tìm kiếm manh mối, chúng tôi vừa ra khỏi cục thì gặp Vương Nguyên Thạch đi từ bên đối diện tới.
+
+Tiểu Đào hỏi: "Vương Nguyên Thạch, hai ngày nay ông chạy đi đâu vậy?"
+
+Vương thúc bộ dạng khá tiều tụy, hai mắt thâm quầng, xem ra mấy ngày nay cũng không nhàn rỗi, lạnh nhạt nói: "Tìm một người. Tiểu Đào, cô biết vụ án 429 năm 2006 không?"
+
+Tiểu Đào cười đáp: "Năm 2006 tôi vẫn đang học cấp 3."
+
+Vương thúc trầm mặt: "Thực ra vụ án lần này rất giống vụ 10 năm trước."
+
+Chúng tôi đều kinh ngạc, Vương Nguyên Thạch nói 10 năm trước ở Nam Giang đã từng xảy ra vụ án dùng cực kình hành hạ chết người, có ba nạn nhân. Vụ án đó đã được phá, nghi phạm Kỳ Thắng vẫn đang thụ án tại trại giam Báo Tử Sơn.
+
+Vương Nguyên Thạch đã lật xem hồ sơ năm đó, cảm thấy có điểm tương tự vụ án này, mà cũng có điểm bất đồng, cho nên tự mình đi gặp nghi phạm. Nhưng tên Kỳ Thắng kia rất kín miệng, chẳng chịu nói gì cả.
+
+Tôi lập tức nói: "Dẫn chúng tôi đi gặp hắn."
+
+Vương thúc gật đầu: "Ta về tìm các ngươi cũng là vì chuyện này."
+
+Tôi liền lên xe Vương thúc, tập hồ sơ vụ 10 năm trước trên xe, tôi mở ra đọc một lượt.
+
+Thủ pháp hung thủ năm đó tương đối vụng về, hắn tự chế ra ba loại hình cụ, một là vòng cổ có gai tự co rút, thứ hai là máy ép không ngừng ép xuống, nạn nhân phải dùng tay đỡ, nhưng trên tấm ép là lưỡi đao, thứ ba là một giá đỡ thăng bằng, nạn nhân đứng trên giá chỉ hơi cử động thì axit sẽ chảy vào người.
+
+Ba hình cụ tự chế này ý tưởng kém xa so với cực hình giáp nung và rút lưỡi, thiết kế cũng có sơ hở, ví dụ như hình cụ thứ 3, lúc tiến hành thì bị dò điện, kết quả nạn nhân bị giật chết.
+
+Hung thủ năm đó tên là Kỳ Thắng, một thầy giáo cơ khí lâu năm, có lần một sinh viên bị thương trong tiết thực hành của hắn, cha mẹ sinh viên kia đã làm đơn kiện lên trường. Nhà trường đã thuê luật sư giỏi nhất, đem toàn bộ trách nhiệm đẩy lên đầu Kỳ Thắng, hắn phải chịu bồi thường toàn bộ chi phí, nếu không sẽ phải ngồi tù. Kỳ Thắng chẳng còn cách nào khác, phải đi vay lãi cao, bán hết nhà cửa, vợ hắn cũng bỏ mà đi.
+
+Dưới áp lực lớn, Kỳ Thắng nảy sinh tâm lý trả thù xã hội, hắn cho rằng luật pháp chỉ là công cụ bảo vệ giai cấp đặc quyền, thế giới này cần có chính nghĩa ngoài vòng pháp luật để thực thi công đạo, cho nên đã sử dụng chính học thứ của mình chế tạo những cái máy giết người, lần lượt giết chết hiệu trưởng, một kẻ lạm dụng trẻ em và một tên buôn rượu giả.
+
+Thủ pháp của Kỳ Thắng không đủ thông minh, động cơ lại quá rõ ràng, lúc mua linh kiện cũng để lại nhiều dấu vết. Cuối cùng trước đống bằng chứng như thép, hắn khai nhận toàn bộ tội lỗi, chịu ngồi tù.

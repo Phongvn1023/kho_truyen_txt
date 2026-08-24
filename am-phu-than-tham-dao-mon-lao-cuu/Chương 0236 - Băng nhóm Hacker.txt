@@ -1,0 +1,103 @@
+Chương 236: Băng nhóm Hacker
+
+Quả nhiên đúng như tôi dự đoán, bản thân vụ nổ cũng là một màn trình diễn.
+
+Tôi hỏi: "Bây giờ có xem được mấy clip đó không?"
+
+Vương công tử lắc đầu: "Không, mấy cái đó đều là livestream, một tuần phát sóng một lần, hơn nữa những clip này chỉ xem được lúc phát sóng, nếu mở lại sẽ chết máy."
+
+Client của đám hacker này quả thật tính bảo mật siêu cao, tôi nghĩ nếu lấy được source code về rồi chỉnh sửa lại có thể hữu dụng cho cơ quan tình báo.
+
+Tôi quay qua hỏi Lão Yêu có phát hiện gì không, hắn nói: "Xin lỗi, vừa rồi xem livestream nhập tâm quá, ta chẳng để ý gì cả."
+
+Tôi bực mình gắt: "Vậy ngươi ở đây có tác dụng gì?"
+
+Lão Yêu cười hề hề: "Tiểu Tống Tống, xem ngươi cáu kìa, ta trêu ngươi thôi. Vừa rồi ta theo dõi các luồng dữ liệu, thành viên nhận dữ liệu thông qua mã hóa phức tạp, ta không dám có động thái lớn, sợ bị phát hiện."
+
+Tôi nói: "Cái tên nói chuyện với ta trên diễn đàn hôm trước liệu có phải nhân viên nội bộ không?"
+
+Lão Yêu gật đầu: "Rất có khả năng, nếu không ở đâu lại có một đám người nhảy vào tấn công ta, trang web này không thể tấn công trực diện được."
+
+Tôi hỏi: "Bọn chúng lợi hại hơn ngươi?"
+
+Lão Yêu bị đụng chạm tự ái, chanh chua nói: "Mạnh hơn ta? Nực cười, chúng chỉ đông hơn ta mà thôi."
+
+Hacker đấu đá cũng tương tự người ta đánh nhau, đông hơn sẽ chiếm ưu thế. Bên này Lão Yêu có một động tác, bên kia đám người liền đồng loạt tấn công hắn, nháy mắt làm tê liệt hệ thống, căn bản không có sức chống trả.
+
+Tôi hỏi: "Rốt cuộc ngươi có phát hiện gì không?"
+
+Lão Yêu cầm chai rượu vang trên bàn lên rót một ly, bưng lên mũi ngửi: "Ta mới kiểm tra code nền, phát hiện một chương trình giám sát liên tục nên đã thay đổi nó. Giờ cái máy tính này có thể mang ra ngoài mà vẫn truy cập được trang web.
+
+Tôi nói với Vương Thiếu Thông: "Chúng ta phải mang máy của ngươi đi, cả điện thoại di động nữa."
+
+Hắn nói: "Còn việc xác minh giọng nói thì sao?"
+
+Lão Yêu dựa đầu vào ghế, nhấp ly rượu vang: "Cái này rất đơn giản, mã xác minh đều là ký tự và con số riêng lẻ, bảo lát nữa hắn đọc bảng chữ cái và số đếm một lượt làm bản sao, giả tần số giọng nói đối với ta là trò trẻ con."
+
+Lúc đầu Vương công tử không muốn giao điện thoại, nhưng dưới sự cương quyết của tôi và Tiểu Đào, hắn đành nhắn một tin nhắn cho tất cả danh bạ rằng mình đổi số, sau đó đưa cho tôi.
+
+Vương công tử không cần theo về cục, lúc rời đi hắn đuổi theo nói: "Tiểu Đào, hy vọng nàng hiểu cho ta, cuộc sống riêng của ta có một số chuyện nàng thấy kỳ quái..."
+
+Tiểu Đào lạnh lùng: "Nghi phạm Vương, bớt nói đi, không khéo lại lộ thêm chuyện khác."
+
+Mặt Vương công tử như bị dội gáo nước lạnh, xuống dưới lầu Vương Đại Lý vỗ đùi cười ha hả: "Nghi phạm Vương, tuyệt quá há há."
+
+Tiểu Đào ngửa mặt lên trời thở dài: "Ấy vậy mà cha ta lại muốn gả ta cho loại người này."
+
+Tôi nói: "Thì như hắn nói, mỗi người có cuộc sống riêng, cha cô bình thường cũng không tiếp xúc người ngoài giới, trông thấy tiểu tử này có sự nghiệp, tiền tài đã nghĩ là tốt, nào có biết bên ngoài nạm vàng, bên trong thối rữa."
+
+Vương Đại Lý lấy tay vuốt tóc: "Cha tỷ nên biết thêm loại điểu ti chính trực như tôi."
+
+Hoàng Tiểu Đào lườm hắn, nói: "Nghèo với chính trực là hai dấu hiệu không thể đánh đồng, nói thế này mới đúng, khi còn nghèo, người ta không có cơ hội làm chuyện xấu, một khi có nhiều tiền, đứng trước các lựa chọn, mới bộc lộ đúng bản chất con người!"
+
+Vương Đại Lý thở dài: "Vậy tới bao giờ tôi mới được biết bản chất của mình."
+
+Tiểu Đào nói: "Đừng nên tự ti, tiền đồ của ngươi còn dài, chắc không nghèo cả đời đâu."
+
+Vương Đại Lý cười ha hả: "Cảm ơn tỷ đã chúc phúc, chờ tới lúc tôi có tiền sẽ không quên người tỷ tỷ này."
+
+Nói thật, lúc đó Vương Đại Lý đúng là điểu ti nhất trong số chúng tôi, nhưng mấy năm sau hắn lại lột xác thành Vương tổng, là người giàu nhất trong bọn, cuộc sống thật là nhiều khúc cua bất ngờ.
+
+Lão Yêu với Đại Lý ngồi xe Vương thúc, về tới cục, Đại Lý kể cho tôi, suýt nữa thì Vương Nguyên Thạch đánh chết Lão Yêu. Trên đường hắn cứ hỏi này hỏi nọ, tay còn lén lút sờ ngực với bắp tay Vương thúc, tên Lão Yêu này đúng là điếc không sợ súng, cả Vương Nguyên Thạch mà hắn cũng dám trêu đùa.
+
+Mấy cảnh sát tôi nhờ ra ngoài tìm kiếm đã mang hồ sơ về, quả nhiên nửa tháng trước có phát hiện một thi thể nam giới ở bờ sông, hai tay bị vật sắc bén chặt đứt. Phân cục khu đó đã lập án điều tra, Tiểu Đào sai người đi làm thủ tục để mang hồ sơ vụ án về, tiếp nhận.
+
+Tôi suy tư: "Quả nhiên hung thủ không cho nạn nhân sống sót, lúc đó chắc là hắn chưa hợp tác với Bì Bì Hà cho nên không dùng thuốc nổ hủy thi, mới không lọt vào tầm mắt chúng ta. Tôi nghĩ nạn nhân này do hung thủ tự tay giết chết, nếu được nghiệm thi sẽ tìm được gì đó."
+
+Một cảnh sát đáp: "Vụ án xảy ra nửa tháng trước, thi thể đã bị pháp y giải phẫu rồi."
+
+Tôi hỏi: "Giải phẫu xong, thi thể để đâu?"
+
+"Hỏa táng." Cảnh sát trả lời.
+
+Tôi thở dài thườn thượt, thường ngày cục cảnh sát nhận nhiều thi thể hơn người ta nghĩ, không thể cất tất cả ở phòng giữ xác được, cái nào giải phẫu khám nghiệm xong sẽ mang đi hỏa táng.
+
+Tiểu Đào nói: "Quy tắc giải phẫu khám nghiệm là phải ghi hình lại, Tống Dương, lần này không có thi thể, liệu xem video anh có tìm được gì không?"
+
+Tôi nói: "Cũng chẳng có lựa chọn nào khác, mang vieo tới xem chút đi."
+
+Công việc buổi chiều là làm việc trên máy tính, chúng tôi xem livestream trên máy Vương Thiếu Thông, cố gắng nắm bắt thông tin, xác định vị trí của đám webcaster, mong muốn bắt được Hình Giả Tật Phong về xử tội.
+
+Lão Yêu cắm đầu giải mã số liệu, hòng tìm được IP của đối phương. Tôi ngồi trong phòng Tiểu Đào xem video giải phẫu tử thi, Vương Đại Lý thì không dám nhìn, đã chuồn mất.
+
+Đang xem thì Tiểu Đào đi vào, tay cầm ly starbucks, hỏi: "Có tìm được gì không?"
+
+Tôi nói: "Vẫn đang tìm."
+
+Nàng bảo tôi dịch sang một bên, sau đó ngồi xuống chung ghế, cơ thể sát vào làm tôi cãng thẳng, nàng nói: "Tôi xem cùng anh. Từ lúc làm việc cùng anh tới giờ, hình như chưa xem giải phẫu pháp y đúng nghĩa lần nào."
+
+Tôi tua video, xem lại từ đầu. Trong video là một bác sĩ pháp y và trợ lý, đầu tiên là kiểm tra bên ngoài thi thể, nạn nhân là nam giới chừng 40 tuổi. Cơ thể nạn nhân có nhiều vết máu bầm chỗ đậm chỗ nhạt, bàn chân có một vết siết rất rõ ràng, diện tích rộng, không giống như dây thừng lưu lại. 2/3 hai cánh tay tính từ cùi chỏ bị vật sắc bén cắt đứt, pháp y cho rằng đây là dùng rìu chặt, suy đoán này sai bét, rìu rất khó chặt một nhát đứt rời cánh tay được.
+
+Mặt nạn nhân vô cùng hoảng sợ, mắt trừng lớn, miệng há hốc, có vẻ trước khi chết đã trải qua gì đó vô cùng kinh khủng. Pháp y kiểm tra đồng tử, phán đoán thời gian tử vong là hai ngày trước, tôi nhìn chằm chằm, nói: "Ơ, sống mũi có một vết thương."
+
+Pháp y trong video đúng là có mắt như mù, không để ý, tiếp tục kiểm tra vị trí khác.
+
+Pháp y cậy miệng nạn nhân, nói: "Không có dấu hiệu trúng độc."
+
+Tôi nôn nóng: "Nhìn móng tay, nhìn móng tay đi!"
+
+Một người trúng độc, trên móng tay sẽ thể hiện rõ nhất, phần gốc biến thành màu đỏ tím, nhưng pháp y lại coi thường bỏ qua.
+
+Tiểu Đào phì cười: "Xem anh kích động kìa, cứ như đang xem đá banh ấy."
+
+Tôi nói: "Đúng vậy đấy, tâm trạng của tôi bây giờ không khác gì đang xem đội Trung Quốc thi đấu đâu."

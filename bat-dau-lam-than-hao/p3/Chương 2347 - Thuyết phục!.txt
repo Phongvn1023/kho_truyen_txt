@@ -1,0 +1,77 @@
+Chương 2347: Thuyết phục!
+
+Lý Hồng Nham đương nhiên hiểu ý An Lương, anh ta không từ chối đưa An Lương đi thăm phòng dự án máy tính lượng tử của
+
+Công ty Baidu.
+
+“Dự án máy tính lượng tử của chúng tôi đi theo xu hướng chính, chúng tôi đã lựa chọn giải pháp siêu dẫn do Big Blue và Google chủ đạo và cố gắng đổi mới.” Lý Hồng Nham giải thích.
+
+“Anh có từng nghĩ tới giải pháp bẫy ion của Công ty Honeywell chưa?” An Lương hỏi ngược lại.
+
+Lý Hồng Nham lắc đầu: “Chưa!”
+
+“Chi phí nghiên cứu và phát triển của giải pháp bẫy ion quá cao.
+
+Chúng tôi khác với Honeywell. Quỹ nghiên cứu và phát triển của bọn họ rất lớn, còn quỹ nghiên cứu và phát triển của chúng tôi thì thua xa.” Lý Hồng Nham nói thêm.
+
+Nghe những gì Lý Hồng Nham nói, An Lương thở dài trong lòng, đây chính là vấn đề lớn nhất của Công ty Baidu!
+
+“Tổng giám đốc Lý, anh có nhận thấy vấn đề gì không. Gian hàng của Công ty Baidu của anh quá lớn, thu nhập từ hoạt động kinh doanh của anh không thể hỗ trợ đầu tư cho nghiên cứu và phát triển của anh.” An Lương nói trúng tim đen.
+
+“Nếu tôi nhớ không lầm, dự án máy tính lượng tử của anh chỉ mới bắt đầu vào năm 2018, phải không?” An Lương hỏi.
+
+Lý Hồng Nham gật đầu: “Đúng vậy, chúng tôi chỉ mới bước vào lĩnh vực máy tính lượng tử vào tháng 3 năm 2018, nhưng chúng tôi tự tin sẽ bắt kịp.”
+
+An Lương hoàn toàn không tiếp lời.
+
+Bắt kịp?
+
+Gì cơ?
+
+Bắt đầu muộn hơn, không có công nghệ cốt lõi, không nỡ đầu tư vào quỹ nghiên cứu và phát triển, dựa vào cái gì mà sẽ bắt kịp?
+
+“Tổng giám đốc Lý nghĩ gì về công nghệ bẫy ion của Công ty
+
+Honeywell?” An Lương hỏi.
+
+Lý Hồng Nham nghĩ ngợi vài giây, sau đó mới trả lời: “Trong lĩnh vực máy tính lượng tử, công nghệ bẫy ion có nhiều ưu điểm hơn công nghệ siêu dẫn, đặc biệt là về khả năng kết nối đầy đủ, có thể tận dụng các qubit tốt hơn.”
+
+Qubit được định nghĩa là một đối tượng dùng để truyền tải thông tin trên nền tảng lý thuyết thông tin lượng tử và tính toán trên máy tính lượng tử.
+
+“Khả năng kết nối của công nghệ siêu dẫn có vấn đề. Nếu muốn đảm bảo tính ứng dụng của 20 qubit, cần ít nhất 30 qubit mới được. Con số này hoàn toàn không thể so sánh được với công nghệ bẫy ion.” Lý Hồng Nham phân tích.
+
+An Lương đợi Lý Hồng Nham nói xong, anh mới bình tĩnh trả lời:
+
+“Tôi thậm chí không hiểu những vấn đề kỹ thuật mà tổng giám đốc Lý đề cập đến. Tôi chỉ biết rằng công nghệ máy tính lượng tử của Công ty Honeywell là số một thế giới.”
+
+Lý Hồng Nham không phản bác.
+
+Mặc dù liên minh máy tính lượng tử của Big Blue và Google đã bắt đầu sớm hơn, nhưng đối với máy tính lượng tử khởi điểm từ con số không mà nói, mọi người đều có chung một vạch xuất phát, không có hướng nghiên cứu phát triển chính xác và cũng không ai dám nói hướng đi của chính mình nhất định chính xác.
+
+Ví dụ, giải pháp siêu dẫn thực sự kém hơn bẫy ion về khả năng kết nối toàn diện, nhưng ai có thể nói rằng giải pháp siêu dẫn nhất định là không tốt?
+
+Nếu xét theo phương diện khả năng kết nối đầy đủ, quả thực kém hơn rất nhiều so với giải pháp bẫy ion.
+
+Nhưng hiện tại, máy tính lượng tử theo hướng nghiên cứu và phát triển bẫy ion quả thực là trình độ số một trên thế giới.
+
+“Tổng giám đốc An có ý gì?” Lý Hồng Nham hơi khó hiểu.
+
+“Năm ngoái, Công ty Ari của Jack Ma đã phát triển một máy tính lượng tử với 11 qubit, còn bên công ty của anh chỉ có 9 qubit. Đối với công ty dẫn đầu về công nghệ như Big Blue, bọn họ đã bắt đầu vào đầu năm ngoái, đã thế bọn họ còn đưa ra được một máy tính lượng tử phiên bản đã được chứng minh thương mại với 20 qubit.” An Lương thuật lại thông tin.
+
+An Lương không hiểu công nghệ, nhưng anh hiểu đạo lý “Biết mình biết ta, trăm trận trăm thắng”.
+
+“Bên anh bắt đầu muộn, công nghệ lạc hậu, đầu tư vào nghiên cứu và phát triển còn rất thấp, chưa kể thu nhập từ hoạt động kinh doanh của anh tăng chậm. Thay vì cứ rãi quỹ nghiên cứu và phát triển hạn hẹp của mình cho nhiều lĩnh vực, tốt hơn hết là anh nên đầu tư quỹ nghiên cứu và phát triển quý giá vào các lĩnh vực chuyên môn của mình.” An Lương đề nghị.
+
+“Ví dụ về hệ thống trí tuệ nhân tạo, thế giới bên ngoài đã đánh giá thấp Công ty Baidu của anh. Anh hoàn toàn ở trình độ đẳng cấp thế giới về hệ thống trí tuệ nhân tạo. Bởi vì bên anh nắm giữ rất nhiều dữ liệu của người dùng và thông tin thu được thông qua cách tìm kiếm. Ngoài ra còn cung cấp một lượng lớn tài liệu học tập bởi hệ thống trí tuệ nhân tạo, tất cả những điều này đều là ưu thế của anh.” An Lương trực tiếp tiết lộ tin tức.
+
+Công ty Baidu thực sự rất mạnh về mảng hệ thống trí tuệ nhân tạo.
+
+Nếu không, An Lương cũng sẽ không thèm thuồng moi móc Công ty Baidu, Lý Hồng Nham cũng sẽ không hẹn An Lương gặp mặt rồi xỉa xói. Hành động moi móc của An Lương đã khiến cho Công ty
+
+Baidu có một áp lực rất lớn.
+
+“Tổng giám đốc Lý, tôi tin rằng anh hiểu rõ hơn tôi về đạo lý “Nếu không thể theo kịp dòng chảy của thời đại thì hãy rút lui”. Mặc dù các dự án trí tuệ nhân tạo của anh hiện ở đẳng cấp thế giới, ngày càng có nhiều công ty khổng lồ muốn đầu tư vào. Nếu bên anh cứ giậm chân tại chỗ, những công ty khác sẽ tiến lên, điều đó cũng tương tự với việc bên anh đang thụt lùi.” An Lương nói một cách mê hoặc.
+
+Lý Hồng Nham vẫn im lặng, anh ta phải thừa nhận rằng lời nói của An Lương rất thuyết phục.
+
+“Từ bỏ nghiệp vụ không cốt lõi và giữ lại khả năng cạnh tranh của nghiệp vụ cốt lõi thực sự là một lựa chọn rất đúng đắn.” An Lương nói thêm: “Lấy ông Mã làm ví dụ. Gia đình bọn họ có đủ thứ ưu thế, hơn nữa trước đây còn từng lập công lớn, nhưng vẫn thua về dự án Weibo.”

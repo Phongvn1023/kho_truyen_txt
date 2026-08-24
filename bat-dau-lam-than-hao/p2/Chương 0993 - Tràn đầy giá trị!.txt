@@ -1,0 +1,87 @@
+Chương 993: Tràn đầy giá trị!
+
+Bằng cách liệt kê số liệu, Triệu Uyển Hề đã sắp xếp các vấn đề phức tạp về hiệu suất quan trọng một cách rõ ràng, để ngay cả những người ngoài nghề cũng có thể hiểu rõ về tình hình của năng suất sạc.
+
+"Tôi muốn nói rằng pin Graphene không có vấn đề gì về suy giảm năng suất sạc. Cho dù nó không còn pin hay còn 99% pin thì tốc độ sạc của nó vẫn là đỉnh nhất. Mẫu pin Graphene này có thể được sạc được 550 mAh điện mỗi phút." Triệu Uyển Hề giới thiệu.
+
+"Dung lượng của nó là 7000 mAh, về lý thuyết thì chỉ mất 12 phút
+
+42 giây là có thể sạc đầy, nhưng bởi vì chỗ nối của dây cáp, cũng như điện trở của pin nên phải mất 13 phút để sạc từ 0 đến 100%!"
+
+Triệu Uyển Hề giải thích. Nghe thấy số liệu này, An Lương cũng sửng sốt.
+
+Pin 7000 mAh, thời gian sạc 13 phút?
+
+So với pin 4500 mAh ban đầu của điện thoại di động M30Pro, mất
+
+74 phút để sạc từ 0 lên 100%, hơn nữa nó vẫn sử dụng chế độ sạc siêu tốc 40W có dây. Nếu so sánh, dung lượng của pin Graphene lớn hơn, thời gian sạc ngắn hơn nhiều so với pin Lithium, ngay cả khi chi phí sản xuất gấp đôi giá pin Lithium, liệu nó có hoàn toàn là lợi thế đánh bại không?
+
+"Bây giờ chúng tôi sẽ chứng minh toàn bộ quá trình sạc. Trong toàn bộ quá trình sạc, chúng tôi sẽ sử dụng nhiệt kế hồng ngoại để ghi lại nhiệt độ của chiếc điện thoại di động Hoa Biện M30Pro này theo mọi hướng. Hơn nữa, mời Lý Minh Phi cùng Tiểu Ngư chạm tay vào nó, cảm nhận quá trình nạp điện đang nóng lên." Triệu
+
+Uyển Hề liền giải thích.
+
+Sau khi Triệu Uyển Hề nói xong, Ngô Xuân Sinh kết nối cáp dữ liệu
+
+Type-C, E-mark, nối số liệu với cổng sạc của điện thoại di động
+
+Hoa Biện M30Pro, thời gian bắt đầu hoạt động.
+
+“Vài phút sau, lượng pin còn lại hiển thị trên điện thoại di động
+
+M30Pro tăng từ 1% lên 9%, tốc độ sạc cực kỳ nhanh.”
+
+Triệu Uyển Hề trong khi tường thuật nói thêm: "Mức sạc trong phút đầu tiên được hiển thị là 8%, nhưng trên thực tế không có
+
+8%, bởi vì hệ thống điện thoại di động không hiển thị số lẻ phía sau số liệu."
+
+Triệu Uyển Hề nhắc nhở: "Nhiệt độ trong nhà hôm nay là 22 độ C.
+
+Từ thông tin hiển thị bằng nhiệt kế hồng ngoại, nhiệt độ hiện tại của chiếc điện thoại Petal M30Pro này chỉ là 28 độ C. Lý Minh Phi,
+
+Tiểu Ngư, mọi người có thể kiểm tra, nhìn xem nhiệt độ của nó. "
+
+Lý Minh Phi và Hồ Tiểu Ngư đã kiểm tra nhiệt độ riêng, các nhân viên của Cục Điều tra An ninh Quốc gia đem hai chiếc microphone cho Lý Minh Phi và Hồ Tiểu Ngư, để họ có thể đưa ra cảm nhận của mình.
+
+Hồ Tiểu Ngư lên tiếng trước: "Có hơi lạnh, ít nhất lạnh hơn tay của tôi một chút."
+
+Lý Minh Phi đồng ý: "Thật sự hơi lạnh, nhưng tốc độ sạc cực cao như vậy, nó sẽ không nóng lên sao?"
+
+Triệu Uyển Hề trả lời: "Trên thực tế, nó tạo ra nhiệt! Lý do lớn nhất khiến pin Lithium nóng lên là do điện trở bên trong của pin.
+
+Do điện trở bên trong chuyển điện năng thành nhiệt năng, nhưng điện trở bên trong pin Graphene lại rất thấp. Nhiệt năng chuyển hóa trong quá trình sạc cũng rất nhỏ nên lý do nóng rất thấp, hoàn toàn bị triệt tiêu bởi tản nhiệt tự nhiên."
+
+Trong quá trình sạc pin từ 0% lên 100%, Lý Minh Phi với Hồ Tiểu
+
+Ngư đã liên tục kiểm tra nhiệt độ, dù sử dụng trực tiếp hay dữ liệu từ nhiệt kế hồng ngoại đều cho thấy chiếc điện thoại di động
+
+M30Pro đang sạc pin cũng không tỏa nhiều nhiệt tại thời điểm đó lắm.
+
+Nhiệt độ cao nhất là 29 độ C, vẫn là nhiệt độ khi Hồ Tiểu Ngư và
+
+Lý Minh Phi bắt đầu cảm nhận. Khi họ đặt tay xuống một lúc, nhiệt độ đã giảm còn 28 độ C.
+
+Mức độ kiểm soát nhiệt độ này khiến mọi người có mặt tại hiện trường vô cùng thích thú, bởi họ biết rất rõ những cục pin
+
+Graphene như vậy vốn đã có giá trị thương mại, hơn nữa có giá trị thương mại còn rất cao. Giá thành của pin Lithium không cao, lấy pin Lithium của điện thoại di động Hoa Biện M30Pro làm ví dụ, giá thành chắc chắn không vượt quá 50 tệ!
+
+Mặc dù giá thành của pin Graphene cao gấp đôi so với pin Lithium, nhưng nó cũng chỉ là 100 tệ mà thôi. Nếu điện thoại di động Hoa
+
+Biện M30Pro được thay thế bằng pin Graphene. Dựa vào 100W, hiệu suất sạc sâu, dung lượng pin 7000 mAh, 13 phút từ 0% đến
+
+100%, pin không nóng, muốn bán tăng lên giá 1000 tệ có phải là rất khó không?
+
+Chắc chắn không khó!
+
+Ngay cả khi bạn lo lắng về rủi ro, hãy đặt phiên bản của pin
+
+Lithium và pin Graphene cạnh nhau, rồi dựa vào điều chỉnh theo tình hình tiêu thụ của thị trường không phải là có thể sao?
+
+Triệu Uyển Hề nói thêm: "Sức mạnh của pin Graphene, ngoài tình huống mà chúng tôi đã chứng minh, nó cũng rất nổi bật về hiệu suất an toàn, ngay cả khi pin Graphene bị thủng hoặc thậm chí bị cắt thành hai đoạn, nó cũng sẽ không cháy không nổ, nó có thể sử dụng bình thường, nó chỉ mất một ít dung lượng mà thôi."
+
+"Tất nhiên, pin Graphene bị hỏng chỉ có thể phóng điện và tồn tại cho đến khi hết nguồn. Nếu vẫn muốn sạc thì chắc không thể sạc hiệu quả được." Triệu Uyển Hề cười.
+
+An Lương nhìn nụ cười của Triệu Uyển Hề, trong lòng cảm thấy có chút thú vị, nhưng lại cắt đứt suy nghĩ của mình ngay sau đó.
+
+Thân phận của Triệu Uyển Hề quá đặc biệt, nếu An Lương muốn yêu đương với Triệu Uyển Hề, thì anh cũng chỉ có thể yêu một mình Triệu Uyển Hề, anh không muốn như vậy.
+
+Suy cho cùng, An Lương là một người đàn ông tốt, anh sẽ không thể làm những chuyện bạc tình bạc nghĩa rồi bỏ đi!

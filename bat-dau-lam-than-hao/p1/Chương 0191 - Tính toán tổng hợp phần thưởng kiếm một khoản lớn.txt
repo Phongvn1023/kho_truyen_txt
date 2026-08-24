@@ -1,0 +1,133 @@
+Chương 191. Tính toán tổng hợp phần thưởng: kiếm một khoản lớn
+
+Nhìn thấy câu chuyện của người được giải nhất, ba người được giải khác cũng học như thế, cũng trợ giúp An Lương như thế.
+
+“Phúc lợi cũng phát xong rồi, chúng tôi phải đến Thiên Phủ đây, bây giờ đóng livestream, có duyên gặp lại!” An Lương giải thích nói.
+
+“Tạm biệt mọi người.” Sau khi Dương Mậu Di nói xong thì lập tức đóng livestream.
+
+Hơn 27 tài khoản VIP sau khi Dương Mậu Di đóng livestream còn gửi đi một màn bình luận.
+
+'Một màn lịch sử: tài khoản VIP vượt qua 27 vạn, điểm nhân khí vượt qua 1,3 ức, chủ phòng livestream đóng livestream với tốc độ ánh sáng!'
+
+'Nói đạo lý đi, tâm tư của chủ phòng livestream còn ở trên mạng sao?'
+
+'Phổ cập tình cảm, Lương Nhân Đế Vương Thần Thánh trước sau tiêu cho chủ phòng livestream nhỏ không dưới ngàn vạn đúng không?'
+
+'Vì vậy, lẽ nào đó thực sự là một con Hồ Ly Tinh?'
+
+'Mọi người tôn trọng chút đi! Có một vài người chủ phòng livestream, xem một ngày biết một ngày, nói không chừng lúc nào đó liền tuyên bố rút lui đó!'
+
+'Xem rồi biết quý trọng đi!'
+
+'Giải tán đi, giải tán đi, không được trúng thưởng cũng đáng, loại tình cảnh livestream này, coi như là trả vé rút thưởng đi!'
+
+'Ngồi đợi ngày mai có người điên cuồng tâng bốc màn livestream hôm nay đi!'
+
+'Nói đạo lý, chuyện này không đáng tâng bốc sao?'
+
+'Người chơi Răng Hổ đã bắt đầu tâng bốc rồi, tài khoản VIP online cao nhất 508.880 người, khán giả thực online cao nhất 2.980.521 người, điểm nhân khí là 1.372.900, quà thu được khi livestream là
+
+5.086.492 tệ, lập nên kỷ lục của ứng dụng Răng Hổ!'
+
+'Sốc rồi! Tôi thấy, đại lão Đế Vương Thần Thánh cũng không có chịu thiệt?'
+
+'Nghĩ nhiều rồi! 500 vạn, chủ phòng livestream nhỏ nhiều nhất cũng chỉ thu được 150 vạn, hơn nữa nên tìm hiểu một chút vụ
+
+20% thuế đi?'
+
+Phòng livestream vẫn đang hỗn loạn, An Lương và Dương Mậu Di đương nhiên là không biết chuyện này, sau khi kết thúc livestream,
+
+Dương Mậu Di lại tiếp tục lái xe, cô dò hỏi An Lương: “Bây giờ chúng ta đi đâu?”
+
+An Lương đáp lại: “Khách sạn Văn Đáp Thụy Hoa khu Giang Cẩm.”
+
+Nhất thời, sắc mặt Dương Mậu Di lập tức đỏ lên!
+
+Trực tiếp đi khách sạn sao?
+
+Nhưng mà cô có chút đói bụng!
+
+Còn chưa có ăn cơm trưa nữa!
+
+An Lương nhìn Dương Mậu Di không khởi động xe, cậu nghi ngờ dò hỏi: “Đi thôi?”
+
+“Ừ!” Dương Mậu Di khởi động động cơ, đi theo chỉ dẫn của An
+
+Lương.
+
+An Lương còn chưa ý thức được chỗ mình vừa nói còn có ý nghĩa khác, cậu ngả người vào ghế lái phụ, kiểm tra thông báo mà Hệ thống Nhân Sinh Người Thắng để lại.
+
+'Tinh!'
+
+'Chúc mừng ký chủ hoàn thành nhiệm vụ gánh livestream.'
+
+'Đang tính toán tổng hợp phần thưởng của ký chủ, xin vui lòng chờ…'
+
+'Bên trong nhiệm vụ lần này, ký chủ tiêu phí hết 1.962.624 tệ, xác định số phần thưởng.'
+
+Ở trong nhiệm vụ gánh livestream lần này An Lương đã nạp 30 vạn phí duy trì Đế Vương, khen thưởng 66 tấm Tàng Bảo Đồ, do đó hấp dẫn được nhân khí ở giai đoạn đầu tiên.
+
+Tổng số tiền ở lần rút thưởng thứ ba là 1.662.624 tệ, Hệ thống
+
+Nhân Sinh Người Thắng đang tổng hợp lại số liệu, tiêu phí không đến 200 vạn.
+
+'Số tài khoản VIP cao nhất bổ trợ 0,5.'
+
+'Số khán giả thực online cao nhất bổ trợ 2,4.'
+
+'Nhân khí cao nhất bổ trợ 1,3.'
+
+'Nhận được nhiều quà nhất bổ trợ 0,5.'
+
+'Tổng hợp hệ số bổ trợ là 4,7.'
+
+'Hạn mức phần thưởng cuối cùng là: 9.224.33 nhân dân tệ.'
+
+'Tinh!'
+
+'Xét thấy túc chủ ở nhiệm vụ đại bầu gánh livestream lập nên kỷ lục của nền tàng Răng Hổ, nên ngoài giới hạn phần thưởng còn nhận được:
+
+Phần thưởng một: 200 vạn xu Răng Hổ.
+
+Phần thưởng hai: một món quà tùy chọn.
+
+Phần thưởng ba: một món quà đặc biệt.
+
+Xin hỏi túc chủ có muốn nhận thưởng và mở quà luôn không?'
+
+An Lương kiểm tra thông báo của hệ thống, phần thưởng lần này lại có hơn 900 vạn, trừ chi phí đầu tư, còn lãi hơn 700 vạn?
+
+Quả nhiên là Hệ thống Nhân Sinh Người Thắng!
+
+Ngoài ra, sau khi lập nên kỷ lục của nền tàng Răng Hổ, còn được ba phần thưởng ngoài khác, trong đó còn có một món quà đặc biệt,
+
+An Lương hy vọng món quà đặc biệt này có thể mở ra thuộc tính thân thể…
+
+Bởi vì chỉ cần một chút khác biệt về thể chất, An Lương đã phát hiện tinh lực của mình ngày càng dồi dào, thể năng kéo dài càng mạnh hơn.
+
+Có điều, An Lương cũng phát hiện ra một vấn đề!
+
+Số tiền cậu tiêu phí xuất hiện sai lệch so với kinh nghiệm trên hệ thống. Vốn là An Lương vẫn không để ý đến việc thăng cấp hay không thăng cấp, nhưng có vấn đề thì phải hỏi.
+
+Thông qua câu hỏi của An Lương, Hệ thống Nhân Sinh Người
+
+Thắng đã đưa ra lời giải thích.
+
+Bộ phận bao quát nhưng không hạn chế: tặng cho, cổ phiếu, công trái (nợ của chính phủ), kỳ hạn giao hàng, hạng mục giải trí chờ đầu tư, đều sẽ không được Hệ thống Nhân Sinh Người Thắng đưa vào kinh nghiệm.
+
+Ví dụ như đã từng đầu tư năm triệu cho một bộ phim, lúc đó An
+
+Lương không phát hiện Hệ thống Nhân Sinh Người Thắng không ghi vào kinh nghiệm cho mình.
+
+Sau đó là giao dịch cổ phiếu ở Mỹ, An Lương đầu tư vào bốn ngàn vạn cũng như thế không phát sinh ra bất kỳ kinh nghiệm nào.
+
+Bây giờ có hơn 160 vạn là do An Lương rút thưởng rồi tặng đi, ngoài ra thì vẫn không có bất kỳ kinh nghiệm nào.
+
+Có điều An Lương không để ý, thăng cấp gì thì cũng đều sẽ thăng cấp, chúc phúc nhận được chỉ là bổ sung, phần thưởng nhiệm vụ mới là mối lớn.
+
+Vốn dĩ An Lương cho rằng mình phải học xong đại học năm nhất mới có thể thực hiện được một cái mục tiêu nhỏ, nhưng bây giờ sau khi thực hiện xong nhiệm vụ đại bầu gánh livestream này, cậu phát hiện tình hình tài chính của mình đã đạt đến 0,9 mục tiêu nhỏ.
+
+Nếu như hoàn thành phần thưởng 【Trăm Triệu Con Cháu Không
+
+Ngày Trở Về】, vậy thì có thể đột phá một mục tiêu nhỏ rồi!

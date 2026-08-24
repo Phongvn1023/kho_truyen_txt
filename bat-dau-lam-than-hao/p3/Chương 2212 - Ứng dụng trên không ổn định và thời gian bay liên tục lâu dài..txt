@@ -1,0 +1,91 @@
+Chương 2212: Ứng dụng trên không ổn định và thời gian bay liên tục lâu dài.
+
+‘An Lương: Lão Hoàng, có phải giấy phép liên quan đến mô tô bay đã “vàng” rồi không?’
+
+Cái gọi là “vàng”, thực ra là phương ngữ Thịnh Khánh, nghĩa của nó khi đặt trong câu nói này tức là không thành công.
+
+‘Hoàng Quốc Tường: Nếu cậu muốn giấy phép liên quan đến mô tô bay, vậy thì chắc chắn không có vấn đề gì.’
+
+‘Hoàng Quốc Tường: Còn nếu cậu muốn giấy phép công khai của mô tô bay, tôi e là không thể làm được.’
+
+‘Hoàng Quốc Tường: Chúng tôi đã thảo luận về vấn đề này rồi, về tình hình của mô tô bay, chúng tôi định nghĩa mô tô bay là [máy bay] thay vì [phương tiện cơ giới] thông thường.’
+
+‘Hoàng Quốc Tường: Chúng tôi đang thiết kế kỳ thi lấy bằng lái mô tô bay. Nếu những người bình thường muốn lái mô tô bay, bọn họ cần phải vượt qua kỳ thi lấy bằng lái mô tô bay.’
+
+‘Hoàng Quốc Tường: Theo kế hoạch ban đầu, chúng tôi dự định thành lập địa điểm thi lấy bằng lái mô tô bay ở Đế Đô, sau đó sẽ thiết lập các địa điểm thi ở các thành phố khác trong tương lai.’
+
+‘Hoàng Quốc Tường: Cậu chắc cũng hiểu những quy định như vậy phải không?’
+
+An Lương có thể hiểu, bởi vì An Lương đã đoán ra tình huống này từ rất lâu rồi.
+
+Mặc dù mô tô bay được gọi là “mô tô”, nó không liên quan gì đến xe máy, nó giống như một chiếc quadcopter siêu lớn, tương đương với một phiên bản phóng to của một chiếc máy bay không người lái.
+
+Tất nhiên, nó có thể chở người!
+
+Nếu như không có giới hạn phần lõi, ngay cả mô tô bay thế hệ đầu tiên cũng có thể đạt độ cao 3.000 mét, mô tô bay của thế hệ thứ hai thậm chí có thể đạt tới độ cao 4.500 mét.
+
+Hiện tại, chiếc mô tô bay thế hệ thứ ba do Tập đoàn công nghệ
+
+Graphene Ước Mơ Tương Lai mài ra, có giới hạn bay tối đa là
+
+5.000 mét.
+
+Vì vậy, hoàn toàn không có vấn đề gì khi Hoàng Quốc Tường định nghĩa mô tô bay là “máy bay”.
+
+‘An Lương: Không có vấn đề gì cả.’
+
+‘An Lương: [Kế hoạch thiết kế “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài”]’
+
+‘An Lương: Hãy nhìn chiếc mô tô bay của phiên bản này.’
+
+‘Hoàng Quốc Tường: Chờ một chút.’
+
+Hoàng Quốc Tường xem xét phương án thiết kế của “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài” do An
+
+Lương gửi tới. Phiên bản mô tô bay này đã bỏ chức năng bay nhanh, mang nhiều pin hơn và bốn nhóm động cơ phân luồng thành bốn động cơ phân luồng đơn giản.
+
+Mặc dù công suất động cơ đã giảm rất nhiều, tốc độ giới hạn mỗi giờ giảm từ 200 km xuống 100 km, nhưng số ngăn chứa pin đã tăng từ bốn lên mười!
+
+Thời gian bay liên tục được tăng từ 150 phút lên 300 phút, chủ yếu là do trọng lượng của ngăn chứa pin đã tăng lên, vì thế mà ngăn chứa pin tăng lên 1,5 lần, nhưng độ bền chỉ tăng lên 1 lần.
+
+Hoàng Quốc Tường đọc xong những thông tin liên quan đến “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài”, anh ta bắt đầu cảm thấy hứng thú.
+
+‘Hoàng Quốc Tường: Cậu định áp dụng phương án thiết kế này ở đâu’
+
+‘An Lương: Có rất nhiều phương hướng để áp dụng!’
+
+‘An Lương: Tất cả các hoạt động nguy hiểm ở môi trường trên không đều có thể áp dụng.’
+
+‘An Lương: Ví dụ như công việc bảo trì đường dây cao áp, công việc này rất nguy hiểm, không chỉ làm việc trên cao mà còn có nguy cơ bị điện giật.’
+
+Nếu muốn hiểu thêm một chút về công việc bảo trì đường dây cao áp, chỉ có thể nói rõ một câu: Nếu không có gánh nặng trên thân, ai dám cược mạng sống của mình vào ngày mai?
+
+‘An Lương: Trong lĩnh vực bảo trì đường dây cao áp, “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài” này rất tốt, nó có thể thay thế một số công việc bảo trì vô cùng nguy hiểm.’
+
+‘An Lương: Chỉ cần áp dụng vào các quy mô nhỏ, đặc biệt là các công việc nguy hiểm, nó sẽ có đóng góp rất lớn.’
+
+‘An Lương: Cho dù mỗi năm chỉ cứu được một tính mạng của nhân viên làm công việc bảo trì đường dây cao áp, thì đó cũng là việc công đức vô lượng.’
+
+Hoàng Quốc Tường đương nhiên biết sự nguy hiểm của công việc bảo trì đường dây cao áp.
+
+Các đường dây cao áp trong hệ thống lưới điện đều được lắp trên cao, bởi vì hầu hết các đường dây cao áp đều ở vùng hoang vu nên công việc bảo dưỡng đa phần được thực hiện thủ công.
+
+Trong hoàn cảnh như vậy, nếu có “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài” này, quả thực là một phúc phần lớn đối với công việc bảo trì đường dây cao áp.
+
+‘Hoàng Quốc Tường: Cậu định bán nó với giá như thế nào?’
+
+‘An Lương: Tập đoàn công nghệ Graphene Ước Mơ Tương Lai không dựa vào thứ này kiếm tiền, giá cả chắc chắn sẽ không quá đắt, nhưng phải ký kết hợp đồng thu gom, nghiêm cấm tháo rời pin Graphene của “ứng dụng bay phiên bản ổn định và thời gian bay liên tục lâu dài”.’
+
+Chuyện này không có gì sai cả!
+
+Hiện tại, các loại pin Graphene do Tập đoàn công nghệ Graphene
+
+Ước Mơ Tương Lai bán ra, ngoại trừ những đồ điện tử, tất cả đều đã bị phía quân đôi cầm đi. An Lương đặc biệt đưa ra các hạn chế bán hàn rất nghiêm ngặt đối với pin Graphene phiên bản 0.4 dung lượng lớn.
+
+Kể cả phía quân đội khi đặt hàng, cũng phải chấp nhận những hạn chế này!
+
+Ví dụ, nếu quân đội muốn sử dụng pin Graphene để chế tạo vũ khí laser hoặc súng điện từ thì không có vấn đề gì cả, nhưng toàn bộ pin Graphene do Tập đoàn công nghệ Graphene Ước Mơ Tương Lai cung cấp đều phải áp dụng phương thức giải pháp tích hợp và cài đặt chống tháo rời nghiêm ngặt.
+
+Khi pin Graphene được tháo rời, tế bào pin sẽ tự động nung chảy.
+
+Đây chính là giới hạn cuối cùng của An Lương!

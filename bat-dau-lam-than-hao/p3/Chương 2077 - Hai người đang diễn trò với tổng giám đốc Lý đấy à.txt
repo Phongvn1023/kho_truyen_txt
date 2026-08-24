@@ -1,0 +1,89 @@
+Chương 2077: Hai người đang diễn trò với tổng giám đốc Lý đấy à?
+
+An Lương được Trần Tư Vũ và Ninh Nhược Sương tô môi son đỏ chót, trên lông này còn có nốt ruồi duyên màu đỏ, má đỏ hệt như cao nguyên đỏ, Trần Tư Vũ và Ninh Nhược Sương cũng bắt đầu chụp hình chung với An Lương.
+
+Lúc hai người chuẩn bị chụp ảnh với An Lương, Trần Tư Vũ không cẩn thận đè vào An Lương, cũng khiến An Lương tỉnh lại.
+
+An Lương tỉnh lại lập tức phát hiện vấn đề, bởi vì Trần Tư Vũ và
+
+Ninh Nhược Sương đều không che giấu được tiếng cười. Hai cô nàng này có vấn đề.
+
+An Lương cầm điện thoại mở camera trước lên thì trông thấy mình.
+
+Quả nhiên là thế.
+
+“Trần Tư Vũ, Ninh Nhược Sương, hai người các em thích ăn đòn à?” An Lương hừ một tiếng nói, sau đó bắt hai người lại, lại hôn một cái lên mặt hai người, mỗi người để lại một dấu vết son môi mọng.
+
+Nhìn dấu son môi đỏ trên mặt Trần Tư Vũ và Ninh Nhược Sương,
+
+An Lương lại một trái một phải ôm hai người, mượn cán tự sướng, để Trần Tư Vũ chụp ảnh tự sướng của ba người.
+
+Sau khi tự sướng, ba người An Lương cùng nhau nhìn ảnh chụp, sau đó lại cùng nhau cười hì hì đùa giỡn, ba người cùng nhau cảm nhận cảm giác tự nhiên lại ấm áp.
+
+Hơn hai giờ chiều, khu Thạch Sơn, Đế Đô.
+
+Trong phòng họp của Công ty kỹ thuật Ám Tâm, Hàm Chứng Long đã tổ chức một cuộc họp chuẩn bị cho thiết bị phần cứng phụ trợ cho người khiếm thị. Những thành viên chủ chốt của nhóm nhận dạng DoF và nhóm tích hợp LiDar đều đến tham gia.
+
+Đầu tiên, Hàm Chứng Long đứng ra truyền đạt lại ý của An Lương trước: “Mọi người, sếp lớn đã đồng ý kế hoạch của chúng ta và dặn chúng ta tạm thời bỏ qua vấn đề lợi nhuận.”
+
+Lư Chí Hoa, chuyên gia kỹ thuật trưởng của nhóm nhận dạng DoF hỏi lại: “Sếp lớn nói bỏ qua lợi nhuận?”
+
+“Đúng.” Hàm Chứng Long khẳng định lại.
+
+“Trên thực tế, Kỹ Thuật Ám Tâm của chúng ta vẫn luôn thua lỗ, vả lại ông chủ lớn của chúng ta rất có quyền lực.”
+
+Đới Hâm, chuyên gia kỹ thuật trưởng của nhóm tích hợp LiDar hỏi:
+
+“Tôi nghe nói ông chủ lớn của chúng ta là người đó?”
+
+Hàm Chứng Long chỉ tay về phía đông, Kỹ Thuật Ám Tâm nằm ở phía tây Tập Đoàn Công nghệ pin Graphene Ước Mơ Tương Lai, vì vậy phía đông của họ chính là Tập đoàn Công nghệ pin Graphene
+
+Ước Mơ Tương Lai.
+
+“Nhà bên cạnh cũng là tài sản của sếp lớn.” Hàm Chứng Long nói rõ.
+
+Trên thực tế, Lư Chí Hoa và Đới Hâm cũng đã biết ít nhiều về thông tin này, bây giờ họ chỉ muốn chắc chắn hơn mà thôi.
+
+Lư Chí Hoa nói một cách dứt khoát: “Nếu sếp lớn đã nói bỏ qua lợi nhuận, vậy thì tôi có một phương án công nghệ vẫn chưa được chính thức đưa ra. Bây giờ tôi sẽ đề xuất phương án công nghệ này.”
+
+Hàm Chứng Long nghi ngờ hỏi: “Công nghệ gì?”
+
+“Công nghệ nhận dạng hình ảnh tự nhiên biến đổi thông qua đối nghịch tạo sinh!” Lư Chí Hoa đáp lại.
+
+“Tôi gọi tắt là công nghệ NVL.”
+
+Lư Chí Hoa tiếp tục giới thiệu ngắn gọn: “Công nghệ này sử dụng mạng lưới đối nghịch tạo sinh GAN để tìm hiểu và nhận dạng các hình ảnh tự nhiên, đồng thời lý giải sự biến đổi của hình ảnh. Ví dụ như các ngôi nhà có hình dạng không giống nhau, con người cao thấp gầy béo không giống nhau, thậm chí mỗi chiếc lá cũng khác nhau...”
+
+“Thông qua sự biến đổi như vậy, chúng ta có thể hiểu rõ hơn về các hình ảnh tự nhiên.” Lư Chí Hoa giải thích.
+
+Đới Hâm đứng bên cạnh bật cười: “Lão Lư, anh xem có khéo không, tôi cũng có một hạng mục công nghệ chưa đưa ra này.”
+
+May là Lý Hồng Nham không biết tình hình cuộc họp ở đây, nếu không, chắc anh ta sẽ tự hỏi, liệu có phải Lư Chí Hoa và Đới Hâm đang cố tình diễn trò với mình lúc ở trong công ty Hùng Chưởng hay không?
+
+Nghe Đới Hâm nói vậy, Hàm Chứng Long và Lư Chí Hoa cùng quay ra nhìn nhau.
+
+Đới Hâm giải thích: “Công nghệ của tôi được gọi là công nghệ cảm nhận cấu trúc không gian ba chiều bằng lidar. Chúng ta có thể gọi nó là công nghệ TSR.”
+
+“Công nghệ này cho phép cảm biến lidar sử dụng khoảng cách được tính toán để xây dựng không gian ba chiều ảo, đồng thời lợi dụng sự thay đổi khoảng cách không gian để đưa ra dự đoán hành vi, sau đó đề xuất phương án phản ứng chính xác cho người khiếm thị.” Đới Hâm giải thích.
+
+Đới Hâm tiếp tục bổ sung: “TSR có một sơ đồ thuật toán hoàn toàn mới. Thông qua công nghệ TSR, thông tin của cảm biến laser có thể được phản hồi nhanh hơn, do đó tránh được các vấn đề do độ trễ gây ra.”
+
+“Lão Lư, về độ trễ thì công nghệ NVL của anh như thế nào?” Đới
+
+Hâm hỏi.
+
+“Tôi biết anh muốn nói gì. Ví dụ, khi băng qua đường, nếu có sự chậm trễ trong việc nhận biết đèn giao thông thì có phải là vấn đề chết người, đúng không nào?” Lư Chí Hoa hỏi ngược lại.
+
+“Đương nhiên rồi!” Đới Hâm khẳng định.
+
+“Tôi chắc chắn sẽ cung cấp cho công nghệ NVL một mức độ nhận dạng ưu tiên. Ví dụ, khi một người khiếm thị muốn sang đường, công nghệ NVL sẽ ưu tiên nhận diện đèn giao thông để giảm thiểu độ chậm trễ.” Lư Chí Hoa giải thích.
+
+Lư Chí Hoa bổ sung thêm: “Trong hệ thống người dùng cuối cùng, chúng tôi còn cài thêm hệ thống nhận dạng giọng nói. Người khiếm thị có thể sử dụng hệ thống nhắc nhở bằng giọng nói để chỉ ra rằng họ cần sang đường và sau đó công nghệ NVL có thể nhận ra thông tin liên quan dựa trên khẩu lệnh.”
+
+Lư Chí Hoa nói thêm: “Ví dụ, trạng thái của đèn giao thông và dự đoán hành vi của các phương tiện đang đi qua, cộng với khoảng cách phương tiện được cung cấp bởi cảm ứng lidar của các anh.
+
+Từ đó bảo vệ người khiếm thị qua khỏi vấn đề sang đường nan giải này ở mức độ cao nhất.”
+
+“Khá hay đấy!” Đới Hâm đáp.
+
+Hàm Chứng Long xen vào: “Các anh gửi kế hoạch công nghệ lên đi, sau khi xem xét xong, tôi sẽ lập tức bắt tay vào dự án. À đúng rồi, các anh nghĩ thiết kế phần cứng hỗ trợ cho người khiếm thị của chúng ta nên thiết kế thế nào thì phù hợp?”

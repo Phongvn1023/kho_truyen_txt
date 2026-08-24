@@ -1,0 +1,87 @@
+Chương 2075: Bỏ qua lợi nhuận?
+
+Dù sao chiến lược phát triển của họ đã xuất hiện vấn đề, khiến cho mạng lưới của công ty Hùng Chưởng trở nên lạc hậu hơn so với thời đại một chút, nếu công ty Hùng Chưởng đuổi kịp bước chân thời đại, An Lương tin rằng công ty Hùng Chưởng sẽ lại làm chuyện xấu tiếp thôi.
+
+Đối với loại công ty đó, đào góc tường nhà họ thì có vấn đề gì chứ? Đúng chưa!
+
+An Lương nói bừa nhiều lý do như vậy, chẳng qua cũng chỉ là muốn đào góc tường của công ty Hùng Chưởng mà thôi!
+
+Kỹ thuật Ám Tâm đã thực sự cướp đi hai đội kỹ thuật nòng cốt từ
+
+Công ty Hùng Chưởng, điều này An Lương không phủ nhận, còn về vấn đề có hợp đạo đức hay không thì...
+
+Trong lĩnh vực kinh doanh chú trọng đến việc không từ thủ đoạn để giành chiến thắng! Bên cạnh đó, Kỹ thuật Ám Tâm không không hề vi phạm pháp luật, cho nên đâu có liên quan gì? An Lương đã chủ động liên lạc với Hàm Chứng Long của Kỹ thuật Ám Tâm.
+
+Chờ cuộc gọi được kết nối, Hàm Chứng Long lịch sự nói: “Xin chào, An xã trưởng.”
+
+An Lương trêu chọc nói: “Ở nước Hạ của chúng tôi, anh nên gọi tôi là tổng giám đốc An.”
+
+“Xin lỗi, tổng giám đốc An, tôi sẽ nhớ.” Hàm Chứng Long trả lời.
+
+“Ừm, vì sự an toàn của bản thân, anh phải hòa nhập vào đất nước của chúng tôi, hiểu không?” An Lương nhắc nhở.
+
+“Hiểu rồi.” Hàm Chứng Long trả lời đầy cảm kích.
+
+“Đúng rồi, anh cướp được hai đội kỹ thuật nòng cốt gì đó từ công ty Hùng Chưởng, Lão Lý đã đích thân gọi điện cho tôi để hỏi rồi, nghe có vẻ không vui.” An Lương dò hỏi.
+
+Hàm Chứng Long giải thích: “Chúng tôi đã cướp về hai đội nòng cốt của hệ thống điều khiển tự động của họ, một là đội nhận dạng độ sâu trường ảnh và đội còn lại là đội tích hợp lidar.”
+
+“Công việc của đội nhận dạng độ sâu trường ảnh là nhận dạng thông tin hình ảnh thông qua camera đo độ sâu trường ảnh, chẳng hạn như xác định phương tiện, người đi bộ, đèn đường và biển báo giao thông trên những con phố đông đúc và nhộn nhịp, cũng như các loại các vật thể cố định, bao gồm lan can, lề đường, thân cây, đèn đường…" Hàm Chứng Long nói thêm.
+
+“Nhận dạng độ sâu trường ảnh là một trong những công nghệ cơ bản cốt lõi của hệ thống điều khiển tự động!” Hàm Chứng Long cười.
+
+“Một công nghệ cơ bản cốt lõi khác là ứng dụng lidar, thông qua lidar, hệ thống điều khiển tự động có thể xác định chính xác khoảng cách giữa xe và vật thể, từ đó tránh được những hạn chế của camera đo độ sâu trường ảnh.” Hàm Chứng Long nói thêm.
+
+“Hệ thống điều khiển tự động của Tesla thường xuyên xảy ra sự cố, trên thực tế, thì chỉ có camera đo độ sâu trường ảnh, mà không có thiết bị đo cự ly lidar, nên không thể xác định chính xác một số vật thể đứng yên.” Hàm Chứng Long đã nhân tiện dẫm lên Tesla.
+
+Thói quen tiết kiệm chi phí của Tesla là quá tệ, để tiết kiệm chi phí cho lidar, Tesla vẫn không chịu thừa nhận khiếm khuyết của camera đo độ sâu trường ảnh.
+
+“Chẳng trách lão Lý tức giận, anh chính là cái người đã cướp đi hạch tâm của người ta, không có thỏa thuận cạnh tranh thương mại sao?” An Lương dò hỏi.
+
+“Có, hai đội bị cấm tham gia lại các lĩnh vực liên quan đến công nghệ điều khiển tự động trong vòng năm năm.” Hàm Chứng Long trả lời.
+
+An Lương nhướng mày, nếu là như vậy, chẳng phải tương đương với việc cướp phải hai đội vô dụng sao?
+
+“Sau đó thì sao?” An Lương hỏi.
+
+Nếu thực sự vô dụng, Hàm Chứng Long có lẽ sẽ không cướp về đâu?
+
+Hàm Chứng Long trả lời: “Các thỏa thuận cạnh tranh thương mại có thể được bỏ qua, chúng tôi có thể ứng dụng hai công nghệ này cho động cơ trên máy bay và cả máy bay không người lái, chúng không phải là công nghệ điều khiển tự động dành cho xe, không có vấn đề gì cả!”
+
+Động cơ trên máy bay không phải ô tô, vậy thì không có vấn đề gì phải không?
+
+Động cơ không người lái cũng không phải ô tô, sử dụng thử công nghệ nhận dạng độ sâu trường ảnh thì có vấn đề gì không?
+
+Thảo nào Lý Hồng Nham cảm thấy hơi tức giận, hóa ra anh ta biết có biện pháp để vượt qua các hạn chế cạnh tranh.
+
+“Còn một việc nữa.” Hàm Chứng Long bổ sung.
+
+“Ừm?” An Lương thắc mắc.
+
+Hàm Chứng Long bắt đầu giải thích: “Tôi thiết nghĩ việc sử dụng công nghệ nhận dạng độ sâu trường ảnh và công nghệ đo cự ly bằng tia laser, đặc biệt cho ra mắt một thiết bị phần cứng thích hợp dành cho người khiếm thị.
+
+“Thiết bị phần cứng thích hợp dành cho người khiếm thị hả?” An
+
+Lương thắc mắc.
+
+“Đúng vậy.” Hàm Chứng Long khẳng định nói.
+
+Hàm Chứng Long tiếp tục: “Tổng giám đốc An có biết iPad Pro phiên bản mới của Apple không?”
+
+“IPad Pro 2020?” An Lương hỏi lại.
+
+“Đúng vậy.” Hàm Chứng Long giải thích: “Có một thiết bị lidar trên iPad Pro 2020, tôi chuẩn bị sử dụng lidar này, kết hợp với camera đo độ sâu trường ảnh, để làm thành một thiết bị phần cứng phụ trợ chuyên dụng cho người khiếm thị...”
+
+An Lương đáp lại: “Thông qua lidar đo cự ly, và camera đo độ sâu trường ảnh để xác định thông tin hình ảnh cụ thể, từ đó tổng hợp toàn bộ thông tin phản hồi lại cho người khiếm thị?”
+
+Hàm Chứng long khẳng định nói: “Đúng vậy. Trong cuộc sống hàng ngày, hệ thống nhận dạng độ sâu trường ảnh kết hợp với lidar đo cự ly sẽ giải quyết 99% khó khăn cho người khiếm thị.”
+
+“Bất luận là vượt qua Mã Long, qua chướng ngại vật, lên xuống cầu thang, hoặc trong một môi trường phức tạp và xa lạ, tất cả đều có thể được giải quyết dễ dàng bằng hai công nghệ này.” Hàm
+
+Chứng Long nói thêm.
+
+“Nhưng có một vấn đề duy nhất là...” Hàm Chứng Long do dự một lát.
+
+“Vấn đề gì vậy?” An Lương hỏi ngược lại.
+
+“Những mâu thuẫn tổng hợp về chi phí, giá bán, lợi nhuận và số lượng bán hàng.” Hàm Chứng Long thở dài nói.

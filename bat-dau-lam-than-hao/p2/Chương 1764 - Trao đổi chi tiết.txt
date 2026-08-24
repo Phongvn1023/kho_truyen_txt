@@ -1,0 +1,89 @@
+Chương 1764: Trao đổi chi tiết:
+
+Kỹ thuật vector khả biến!
+
+Cho dù An Lương không giải quyết được thì anh sẽ giao cho Hoàng
+
+Quốc Tường giải quyết!
+
+An Lương đào hố cho Hoàng Quốc Tường là chuyên nghiệp rồi, có vấn đề thì nghĩ đến Hoàng Quốc Tường. Dù sao Hoàng Quốc
+
+Tường cũng thường đào hố cho anh không phải sao?
+
+Đây là tình bạn giữa những người chuyên đào hố!
+
+“Đúng rồi, chúng tôi thiết kế lại mô tô bay, tôi gửi bản thiết kế tương ứng đến email của anh trước, anh xem thử tình hình, tôi sẽ giải thích cho anh một chút, nếu có gì không hài lòng, chúng tôi sửa đổi ngay.” Alek nói rõ.
+
+“Được, anh gửi qua trước, tôi xem thử tình hình.” An Lương đáp lại.
+
+Alek gửi bản thiết kế tương ứng đến email của An Lương, An
+
+Lương kiểm tra ngay lập tức.
+
+Bản thiết kế mà Alek gửi qua làm cực kỳ chi tiết, không chỉ có bản thiết kế chuyên nghiệp, còn có bản thiết kế đối chiếu.
+
+Chẳng hạn như mô tô bay phiên bản cánh quạt phản lực được thiết kế lại, to hơn về mặt kích thước, chiều dài của mô tô bay bốn trục ban đầu chỉ có 2,8 mét, độ rộng chỉ có 0,5 mét, cánh hình chữ
+
+X cũng chỉ có 2 mét, nhưng sau khi thiết kế lại mới hoàn toàn, độ dài tổng lên đến 4,8 mét, độ rộng khu vực chở người không có gia tăng.
+
+Nhưng độ rộng khu vực không chở người mở rộng đến 0,8 mét, cánh ngang quạt phản lực phân bố hình chữ X vẫn là 2 mét nhưng trên bản thiết kế có ghi chú chữ kỹ thuật vector khả biến của trục
+
+X.
+
+An Lương đưa ra câu hỏi: “Kỹ thuật vector khả biến trục X là tình hình gì?”
+
+Alek đáp lại: “Mô tô bay bốn trục trước đó chúng tôi thiết kế, mỗi cái trục của nó đều là cố định, không thể tiến hành bất kỳ điều tiết gì, cho dù là bay về phía trước, hay là bẻ cua trên không v.v…, tất cả đều là điều tiết lực đẩy lên cung cấp cho từng cái trục quạt, tạo thành sự khác biệt lực đẩy, tạo nên lực phân ly trong hướng nhất định.”
+
+“Chẳng hạn như lúc cần tiến về phía trước, công suất đầu ra của bốn trục quay là không giống nhau, tình hình cụ thể cực kỳ phức tạp, tôi nói rõ đơn giản cho anh, chúng ta bỏ qua lực cản của không khí, cùng với ảnh hưởng của gió tự nhiên, lực nâng lên cung cấp cho hai trục ở phía trước nhỏ hơn một chút, lực đẩy lên cung cấp cho hai trục ở phía sau lớn hơn một chút, lực nâng lên và trọng lực giữa bốn trục quạt sau khi cân bằng, sẽ còn cung cấp thêm một lực đẩy về phía trước, vậy nên mô tô bay bốn trục có thể tiến về phía trước.” Alek nói rõ.
+
+An Lương chặn đối phương lại: “Nói kết luận thẳng đi!”
+
+Alek im lặng vài giây mới tiếp tục nói: “Anh có thể hiểu đơn giản kỹ thuật vector khả biến là kỹ thuật tân tiến hơn, nó có thể cung cấp tốc độ bay nhanh hơn cho mô tô bay, thao tác chuyển hướng linh hoạt hơn, đơn giản mà nói chính là khác biệt giữa động cơ bình thường và động cơ vector.”
+
+Cái này thì An Lương có thể hiểu rồi!
+
+“Có khuyết điểm gì không?” An Lương hỏi khuyết điểm thẳng thừng.
+
+Tuy rằng An Lương không hiểu kỹ thuật, nhưng An Lương cảm thấy kỹ thuật như vậy chắc sẽ tồn tại khuyết điểm?
+
+An Lương đúng thật là không hiểu kỹ thuật, nhưng An Lương hiểu xe hơi!
+
+Lấy xe hơi làm ví dụ, nếu tính năng thiết bị của một chiếc xe hơi càng nhiều, kỹ thuật ứng dụng càng phức tạp, tỷ lệ xảy ra vấn đề có thể càng lớn.
+
+Dù gì kết cấu càng phức tạp càng dễ xuất hiện vấn đề, kết cấu càng đơn giản càng đáng tin.
+
+Câu trả lời của Alek minh chứng cho suy nghĩ của An Lương.
+
+“Đúng thật tồn tại khuyết điểm.” Alek đáp lại: “Chủ yếu là tiêu hao nhiều điện năng hơn!”
+
+“Chẳng hạn như trạng thái và điều chỉnh thăng bằng của trục X, đều cần điện năng thêm để duy trì, điều tiết của mỗi cánh quạt phản lực, cũng cần điện năng duy trì tương ứng.” Alek bổ sung.
+
+An Lương thắc mắc: “Vốn dĩ đã không đủ khả năng bay liên tục, bây giờ còn cần điện năng duy trì thêm, chắc là không khoa học nhỉ?”
+
+Mô tô bay bốn trục ban đầu mà mấy người Alek thiết kế ra vốn dĩ chỉ có hành trình bay khoảng 40km, cộng thêm những tính năng phức tạp này, chỉ tạo thành thời gian bay liên tục giảm thêm một bậc.
+
+“Không không không, thời gian bay liên tục không những sẽ không giảm xuống, mà sẽ tăng thêm một bậc.” Alek đáp lại.
+
+Alek tiếp tục nói: “Xem ra anh không biết tình hình của pin
+
+Graphene, anh không biết gì về thiết kế máy móc hết, anh… hụ, xin lỗi, tôi..”
+
+“Không sao, anh nói thử tình hình cụ thể, mô tô bay phản lực thiết kế lại có tham số liên quan không?” An Lương không để bụng đáp lại.
+
+An Lương có thể nhìn nhận khuyết điểm của mình, hơn nữa anh cũng đồng ý thừa nhận sự ưu tú của người khác.
+
+Đúng thật là anh không biết thiết kế máy móc, thậm chí đối với pin Graphene của tập đoàn công nghệ pin Graphene Ước Mơ
+
+Tương Lai cũng không hiểu quá sâu, bởi vì An Lương không cần tìm hiểu được chứ?
+
+Nếu An Lương biết thiết kế máy móc, thế còn cần Alek làm gì?
+
+Nếu An Lương biết kỹ thuật của pin Graphene, còn cần Ngô Xuân
+
+Sinh sao? Việc chuyên nghiệp giao cho chuyên gia xử lý mới là cách làm chính xác nhất.
+
+“Trước tiên là ngoại hình của mô tô bay lớn hơn rất nhiều, pin
+
+Graphene của bên anh cũng không tồn tại rủi ro gây nổ, nên chúng tôi mở rộng thể tích ổ pin lên gấp 5 lần.” Alek nói rõ.
+
+Lúc này An Lương mới hiểu ra, bởi vì An Lương không hiểu thiết kế máy móc, nên không nhạy bén phát hiện ra vấn đề.

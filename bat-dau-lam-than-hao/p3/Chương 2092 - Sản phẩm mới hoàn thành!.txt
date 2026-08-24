@@ -1,0 +1,89 @@
+Chương 2092: Sản phẩm mới hoàn thành!
+
+Điểm thi đấu tiếp theo của Cuộc thi Piano quốc tế là ở Budapest, nhưng do môi trường an ninh tồi tệ ở Budapest, An Lương đã quyết định ở lại Prada cho đến ngày 10, sau đó mới đi đến
+
+Budapest, và chỉ ở lại đó qua đêm.
+
+Các thành viên của câu lạc bộ Thiên Thượng Bạch Ngọc Kinh cũng sẵn sàng ở lại Prada và quyết định trở về nước cùng với An Lương.
+
+Khi An Lương ở nước ngoài, tiến độ nghiên cứu thiết bị phần cứng hỗ trợ người khiếm thị do Công ty kỹ thuật Ám Tâm phát triển rất nhanh. Dù gì thì cũng có phần thưởng do Hệ Thống Nhân Sinh
+
+Người Thắng trao tặng, làm sao có thể không nhanh cho được?
+
+Sau quyết định của An Lương, tạo hình được chọn cuối cùng của thiết bị phần cứng hỗ trợ người khiếm thị là dạng mũ bảo hiểm.
+
+Giống như mũ bảo hiểm xe đạp, dù mùa đông hay mùa hè thì đều có thể sử dụng được.
+
+Thiết bị phần cứng hỗ trợ người khiếm thị dạng mũ bảo hiểm được trang bị mười camera cảm biến độ sâu, bao gồm bốn hướng đông tây nam bắc và góc 45 độ của mỗi hướng, cộng với hai camera cảm biến độ sâu bên trên. Từ đó, hình thành một hệ thống camera độ sâu trường ảnh, lấy mũ bảo hiểm làm trung tâm, gần như có thể điều khiển toàn bộ các bộ phận khác.
+
+Ngoài ra còn có mười cảm biến lidar khác nhau, áp dụng cách bố trí tương tự.
+
+Trong ba ngày, Công ty kỹ thuật Ám Tâm đã tạo ra mẫu thử nghiệm thiết bị phần cứng hỗ trợ người khiếm thị, đồng thời thực hiện một video giới thiệu sản phẩm. Dù đó chỉ là một mẫu thử nghiệm, nhưng An Lương cảm thấy công nghệ của nó đã vô cùng tốt rồi. Sau khi xem xong video demo, anh gọi điện cho Hàm
+
+Chứng Long. Đợi bên kia bắt máy, An Lương lập tức hỏi thẳng:
+
+“Giá vốn của nó là bao nhiêu?”
+
+“Nếu bỏ qua chi phí nghiên cứu và chi phí thiết kế, chỉ tính chi phí vật liệu, thì thực ra nó cũng khá rẻ.” Hàm Chứng Long trình bày.
+
+Hàm Chứng Long nói tiếp: “Giá của một chiếc camera độ sâu trường ảnh là 95 NDT, giá của cảm biến lidar thì đắt hơn một chút. Mặc dù chúng tôi không sử dụng cùng loại lidar của công ty
+
+Apple, nhưng chi phí vẫn lên tới 120 NDT một chiếc. Một thiết bị phần cứng hỗ trợ người khiếm thị cần 10 cái camera độ sâu trường ảnh và 10 cảm biến lidar. Chỉ riêng chi phí này đã lên tới
+
+2150 NDT rồi.”
+
+“Giá thành phần cấu tạo của mũ bảo hiểm thì rẻ hơn một chút, chỉ mất 25 NDT. Nhưng chúng tôi phải tự thiết kế chip nhận dạng hình ảnh tự nhiên. Ngay cả khi chúng tôi tự sản xuất, thì giá thành của một con chip đã lên tới 100 NDT rồi.” Hàm Chứng Long giải thích.
+
+“Thêm vào đó, chi phí của mạch tích hợp bên trong là 20 NDT, chi phí của pin graphene cũng là 150 NDT, còn chi phí sản xuất là 40
+
+NDT. Tổng giá thành đã lên đến 2.485 NDT.” Hàm Chứng Long tính toán số liệu.
+
+“Ngoài ra còn có chi phí đóng gói, chi phí hậu cần và vận chuyển, cũng như bộ sạc, tai nghe đính kèm… thì còn phải cộng thêm 65 tệ. Giá thành cuối cùng là 2550 NDT.” Hàm Chứng Long đưa ra con số cuối cùng.
+
+“Nếu chúng ta bán với giá 2550 NDT, về cơ bản sẽ bị lỗ. Vì việc sản xuất con chip của chúng tôi không thể đạt được tỷ lệ 100%, cộng thêm việc pin graphene được bán với giá gốc. Nếu người mua tháo pin graphene ra, e rằng có thể kiếm được một khoản lớn.”
+
+Hàm Chứng Long thở dài.
+
+An Lương cười đáp: “Tôi đã nói rồi, bỏ qua lợi nhuận. Người khiếm thị vốn đã là nhóm người yếu thế, chúng ta không cần phải kiếm tiền từ họ.”
+
+Còn về việc tháo pin graphene? Nghĩ quá xa rồi!
+
+Không nghĩ đến việc bị chảy nước ư?
+
+“Khả năng sản xuất hiện tại có thể đạt tới bao nhiêu?” An Lương hỏi.
+
+Hàm Chứng Long suy nghĩ một lúc rồi mới trả lời: “Sản lượng chip nhận dạng hình ảnh tự nhiên có thể đạt khoảng 200.000 chiếc mỗi tháng, nhưng nguồn cung pin graphene thì không thể theo kịp. Hầu hết pin graphene của nhà bên cạnh đều bị quân đội lấy đi, còn phải đảm bảo nguồn cung cho công ty Apple nữa. Chúng tôi chỉ có thể nhận được khoảng 50.000 bộ pin graphene mỗi tháng thôi.”
+
+“50.000 bộ cũng là rất tốt rồi!” An Lương đáp lại.
+
+“Sau này, khả năng sản xuất pin graphene sẽ còn tăng lên nữa.”
+
+An Lương tiếp tục hỏi: “Anh đã liên hệ với nhà máy sản xuất phụ tùng chưa?”
+
+“Các công ty chế tạo linh kiện ở phía bắc Đế Đô có thể đảm nhận sản xuất phụ tùng cho chúng ta.” Hàm Chứng Long nói rõ.
+
+“Họ có thể được xử lý được cả các mạch tích hợp.”
+
+“Đúng rồi, sau khi thử nghiệm trên người thật, các anh thấy hiệu quả của thiết bị phần cứng hỗ trợ người khiếm thị thế nào?” An
+
+Lương hỏi.
+
+Hàm Chứng Long tự tin nói: “Rất tốt!”
+
+“Tôi đã tự mình thử nghiệm nó. Sau khi tan sở ngày hôm qua, tôi đã thử bịt mắt và đeo thiết bị phần cứng hỗ trợ người khiếm thị rồi về nhà dưới sự hộ tống của đồng nghiệp. Nhưng không cần sự giúp đỡ của đồng nghiệp, tôi về nhà bằng xe buýt một cách thuận lợi.” Hàm Chứng Long nói thêm.
+
+“Mặc dù tôi không phải là người khiếm thị, nhưng nhờ sự hỗ trợ của thiết bị phần cứng hỗ trợ cho người khiếm thị, tôi có thể dễ dàng thích nghi với hoàn cảnh đó. Vậy nên tôi nghĩ chắc người khiếm thị thực sự sẽ càng dễ thích ứng hơn.” Hàm Chứng Long giải thích.
+
+Xét cho cùng, Hàm Chứng Long không phải là người khiếm thị, không quen với hoàn cảnh của người khiếm thị, vậy nên trong trạng thái khiếm thị sẽ khó thích ứng hơn. Hàm Chứng Long tiếp tục: “Ngoài bài kiểm tra cá nhân của tôi, chín đồng nghiệp khác trong công ty chúng tôi cũng đã tham gia kiểm tra, mọi người đều vượt qua một cách suôn sẻ.”
+
+“Những thử nghiệm này đều được quay lại chứ?” An Lương hỏi.
+
+“Trừ tôi ra thì thử nghiệm của những người khác đều được quay lại cả.” Hàm Chứng Long đáp. Thân phận của Hàm Chứng Long hơi nhạy cảm nên không thể quay video được.
+
+“Rất tốt!” An Lương hài lòng đáp lại.
+
+“Cắt video thử nghiệm của chín người còn lại để làm thành video quảng cáo. Chúng ta sẽ quảng cáo thiết bị phần cứng hỗ trợ cho người khiếm thị.”
+
+“Ngoài ra, các anh có thể bắt đầu chuẩn bị cho việc sản xuất thiết bị phần cứng hỗ trợ người khiếm thị, đưa thiết bị này ra thị trường càng sớm càng tốt. Nếu không có vấn đề gì, hãy áp dụng công nghệ này cho xe động cơ phi hành.” An Lương nói thêm.
+
+“Vâng.” Hàm Chứng Long đáp.

@@ -1,0 +1,91 @@
+Chương 206. Có tiền thì tùy hứng? Chỉ là dư tiền mà thôi!
+
+Máy lạnh 1kWh mỗi đêm chắc chắn là lời tuyên truyền sai sự thật!
+
+Có thể là do quản lý thời gian bị sai?
+
+Chỉ ngủ 4 tiếng một đêm?
+
+Dù sao, An Lương cũng không trở thành thích khách thời gian được!
+
+Bước vào cửa hàng trải nghiệm Tesla, một nhân viên bán hàng nam ngay lập tức chào hỏi: “Xin chào anh, xin hỏi anh cần tìm hiểu về loại xe nào?”
+
+An Lương trả lời một cách phủ định: “Tôi không muốn xem xe, cửa hàng này có PowerWall thế hệ thứ hai không?”
+
+Nhân viên bán hàng nam ngẩn người một lúc.
+
+“Bức tường năng lượng Tesla của cửa hàng.” An Lương lại nói.
+
+Nhân viên bán hàng trả lời có chút ngượng ngùng: “Xin chờ một chút, để tôi đi hỏi xem sao.”
+
+An Lương gật đầu.
+
+Nhân viên bán hàng lập tức rời đi, một lúc sau, nhân viên bán hàng quay lại, anh ta trả lời: “Chúng tôi có bức tường năng lượng thế hệ thứ hai. Thưa anh, đây là kỹ sư kỹ thuật Triệu Đan Lâm của chúng tôi, liên quan đến các thông tin của bức tường năng lượng thế hệ thứ hai, anh Triệu đây có thể giới thiệu chi tiết cho anh.”
+
+An Lương khẽ gật đầu: “Xin chào, anh Triệu, tôi họ An, An trong bình an.”
+
+Sau khi Triệu Đan Lâm chào hỏi, anh ta hỏi tiếp: “Xin hỏi, cậu An cần một bức tường năng lượng bảo vệ môi trường như thế nào?”
+
+An Lương mô tả môi trường ký túc xá của Học viện Kinh tế Thiên
+
+Phủ, cuối cùng hỏi: “Không có vấn đề gì với môi trường sử dụng như thế này, phải không?”
+
+Triệu Đan Lâm đáp lại một cách khẳng định: “Đương nhiên không có vấn đề gì. Tôi biết Học viện Kinh tế Thiên Phủ, hệ thống lưới điện của bọn họ quả thực có chút cũ kỹ, trừ phi nâng cấp cải tạo hoàn toàn, nếu không sẽ không thể nào chịu đựng được thiết bị điện công suất cao.”
+
+Triệu Đan Lâm tiếp tục nói: “Theo nhu cầu của cậu An, bức tường năng lượng thế hệ thứ hai của Tesla chúng tôi hoàn toàn phù hợp với nhu cầu của cậu, ngay cả khi trường học không cho phép lắp đặt thiết bị sạc năng lượng mặt trời trên mái nhà, bức tường năng lượng thế hệ thứ hai của chúng tôi có thể sử dụng dòng điện xoay chiều.”
+
+“Tôi biết” An Lương trả lời: “Mấu chốt là có thể vừa sạc vừa thả?”
+
+“Tất nhiên!” Triệu Đan Lâm đáp lại một cách khẳng định: “Bức tường năng lượng thế hệ thứ hai của Tesla chúng tôi có một siêu biến tần được tích hợp sẵn, siêu biến tần này không chỉ có thể chuyển đổi dòng điện xoay chiều thành dòng điện một chiều và dự trữ nó trong bức tường năng lượng, mà còn vượt qua được bức tường điện của ký túc xá, toàn bộ hệ thống điện của ký túc xá đều đấu vào tường năng lượng, lưới điện xoay chiều bên ngoài chỉ nạp điện cho tường năng lượng.”
+
+“Nhân tiện, cậu An, có một vấn đề cậu cần biết về bức tường năng lượng thế hệ hai, mặc dù bảng hướng dẫn thông số kỹ thuật của chúng tôi ghi rõ rằng năng lượng dự trữ của bức tường năng lượng là 13,5 kWh, nhưng khi năng lượng phát ra, những nguyên nhân như chuyển đổi biến tần v..v.., năng lượng cuối cùng sẽ bị mất đi 10%.“ Triệu Đan Lâm giải thích tình huống.
+
+Vậy năng lượng đầu ra của bức tường năng lượng thế hệ thứ hai khoảng hơn 12 kWh một chút?
+
+“Anh Triệu, anh ước lượng xem, một bức tường năng lượng liệu có đủ so với tình hình tiêu thụ điện của ký túc xá tôi?” An Lương hỏi.
+
+Câu hỏi chuyên nghiệp cho chuyên gia!
+
+Triệu Đan Lâm ước tính đơn giản: “Theo tình hình của ký túc xá đại học, cậu chỉ cần một cái máy làm mát lớn tầm 2300-2500w là được, nếu cậu chọn máy lạnh biến tần thông minh cao cấp, cậu sẽ tiết kiệm được rất nhiều điện, chỉ tiêu tốn khoảng 5 kWh điện trong 10 tiếng.”
+
+“Ngoài thiết bị chiếu sáng, thiết bị máy tính và cả thiết bị sạc điện thoại di động, thiết bị lọc nước, tính tổng thể không quá 8 kWh trong 10 tiếng, bức tường năng lượng thế hệ thứ hai của chúng tôi hoàn toàn có thể cung cấp nguồn năng lượng như vậy!” Triệu Đan
+
+Lâm đã đưa ra một câu trả lời khẳng định.
+
+An Lương tính toán một hồi, cậu trả lời: “Không sao, vậy thì lắp ba bức tường năng lượng đi, tôi muốn đảm bảo nguồn điện được đầy đủ hoàn toàn.”
+
+???
+
+Triệu Đan Lâm ngập ngừng nhìn An Lương, cậu ta hoài nghi An
+
+Lương liệu có phải không biết giá của bức tường năng lượng thế hệ thứ hai?
+
+“Cậu An, mỗi bức tường năng lượng thế hệ thứ hai của Tesla chúng tôi có giá 49800 tệ, dựa theo môi trường tiêu thụ điện đơn giản của ký túc xá, chi phí lắp đặt có thể tốn từ 5 nghìn đến 1 vạn.” Triệu Đan Lâm giải thích về giá cả.
+
+Triệu Đan Lâm tiếp tục nói: “Dựa theo bức tường điện 600W của ký túc xá và thời gian cung cấp điện trong 18 tiếng, nguồn điện sạc tối đa mỗi ngày là 10,8Kw/giờ. Dựa theo sự tiêu hao của chuyển đổi biến tần 10%, nguồn điện mà bức tường năng lượng có thể nhận là 9,7Kw/giờ, với nguồn điện như vậy, hoàn toàn đủ để cung cấp cho cậu sử dụng 12 tiếng trở lên.”
+
+Nói một cách đơn giản, một bức tường năng lượng thế hệ thứ hai của Tesla cũng đủ cho việc sử dụng những thứ cơ bản của ký túc xá, chắc chắn không thể nào để ký túc xá cứ mở máy lạnh suốt trong lúc lên lớp vào buổi sáng?
+
+Vào những lúc này, bức tường năng lượng chỉ đơn giản là một nguồn dự trữ điện tích và sẽ được giải phóng vào ban đêm.
+
+An Lương hỏi vặn lại: “Thứ bảy, chủ nhật và các ngày lễ khác, cộng thêm việc có thể mất điện đột xuất, vậy nên tôi dự định sẽ lắp đặt ít nhất ba cái, dù sao giá cũng khá rẻ, chi phí lắp đặt chắc chỉ tính một lần?”
+
+“....” Triệu Đan Lâm không biết phải nói gì.
+
+Giá gần 5 vạn mà bảo rẻ?
+
+Nói trắng ra, bức tường năng lượng thế hệ thứ hai của Tesla chỉ là một cục pin gia dụng, bởi vì giá quá đắt nên mới không thể quảng bá.
+
+“Chi phí lắp đặt quả thực chỉ tính một lần” Triệu Đan Lâm đáp.
+
+“Được rồi, bây giờ chúng ta đi khảo sát hiện trường, anh xem ba bức tường năng lượng nên được bố trí như thế nào. Nếu có thêm không gian để bố trí, anh có thể lắp thêm một bức tường nữa.” An
+
+Lương nói rõ.
+
+Triệu Đan Lâm còn có thể nói gì nữa?
+
+Có tiền nên tùy hứng thôi!
+
+Khi Triệu Đan Lâm và An Lương đến bãi đậu xe, lúc Triệu Đan Lâm ngồi trên chiếc Ferrari 488 Pista, cuối cùng anh mới hiểu được suy nghĩ của An Lương, dù gì cũng là đại gia mua được chiếc Ferrari
+
+488 Pista, chút tiền cỏn con kia thì có là gì?
