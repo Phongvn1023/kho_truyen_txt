@@ -1,0 +1,307 @@
+Chương 1658. Trùng Phùng Sau Khi Cửu
+
+Biệt (2)
+
+Chương trước Chương sau
+
+Có khi còn có một vài quái vật còn không thể vào trong thế giới này nữa, bởi vì hình thái quái vật của họ thật sự là quá lớn.
+
+Một lát sau, bên trong thành thị này bỗng nhiên sáng rực lên.
+
+Một đội thiên sứ hát vang thánh ca, dùng dây sắt buộc chặt một bóng đen, từ trong thành thị bay lên trời, rồi biến mất bên trong màn đêm.
+
+Dưới thánh quang huy hoàng kia, hai con mèo trợn trừng mắt mà nhìn.
+
+Cái quái gì thế.
+
+Hóa ra bên ngoài chín trăm triệu tầng thế giới, cũng có thiên sứ hay sao.
+
+Những thiên sứ này chắc hẳn không phải là những thiên sứ được Nhân tộc cực cổ mang tới từ thế giới song song, cũng không phải do Thần tộc sáng tạo mà tiềm lực phát triển bị hạn chế.
+
+Những thiên sứ này mạnh tới mức độ nào?
+
+Cố Thanh Sơn cũng chú ý tới, mặc dù trong tòa thành này thường xuyên bùng nổ rất nhiều trận chiến, thế nhưng trong suốt quá trình thiên sứ rời đi, không có bất kỳ kẻ nào dám trêu chọc bọn họ.
+
+Cả tòa thành Hư Không đều giữ yên lặng.
+
+Một lúc lâu sau...
+
+Tiếng ồn ào náo nhiệt mới xuất hiện lần nữa ở trong tòa thành này.
+
+Hai con mèo lúc này mới lấy lại tinh thần.
+
+"Meo, meo meo?" Sơn Nữ hỏi.
+
+Cố Thanh Sơn nhìn khắp nơi, rồi duỗi móng vuốt ra, chỉ về một phương hướng.
+
+"Meo meo meo." Hắn nói.
+
+"Meo." Sơn Nữ gật đầu.
+
+Hai con mèo nhảy lên cao, rồi bắt đầu chạy trên hư không, một lát sau đã rơi xuống một quảng trường cực kỳ náo nhiệt.
+
+Cố mèo quýt rất quen thuộc mà tìm tới quán rượu khi trước, rồi mang theo Sơn mèo quýt đi vào bên trong.
+
+Nơi này chính là nơi Cố Thanh Sơn vừa vào thành Hư Không, đã dừng lại một thời gian ngắn.
+
+Hắn ở đây đã nghe được một vài tin tức, còn thấy được một tên của thế giới Ác Quỷ.
+
+Thế nhưng khi đó hắn mới tới, chưa hiểu thứ gì cả, điều quan tâm đầu tiên vẫn là thân phận hợp pháp của mình, cho nên vẫn không để ý tới người của thế giới Ác Quỷ kia.
+
+Lúc này, quán rượu khá ít khách, Cố Thanh Sơn dẫn theo Sơn Nữ tới một nơi hẻo lánh của quán mà ngồi xuống, quan sát những khách hàng xung quanh.
+
+Khách cũng không nhiều, chỉ liếc qua cũng biết mấy người này đều là quái vật hư không cả.
+
+Bởi vì mặc dù bọn chúng đều biến thành hình người, thế nhưng hoặc là nhiều hơn vài cánh tay, hoặc là nhiều hơn vài cái đầu.
+
+Chỉ cần thấy tay chân nhiều hơn bình thường thì cơ bản đều là quái vật hư không, bởi vì bọn chúng không thích ứng được với việc chỉ có hai tay hai chân.
+
+Còn những chủng tộc trong hư không khác thì vẫn cơ bản có thể biến thành loài người, chỉ có lưu lại vài đặc thù của chủng tộc mình, ví dụ như tộc tinh linh nguyên tố có thân hình rất thon thả, cộng thêm với ánh sáng nguyên tố bao phủ quanh người nữa.
+
+Hai con Mèo quýt nhìn xung quanh, thấy trong quán có năm con quái vật hư không, ba dị tộc, chỉ có một cô gái còn lại thì có vẻ như là loài người.
+
+Thế nhưng cô gái này đã uống quá say, nằm sấp trên mặt bàn, mặt gối lên cánh tay, không thể thấy được khuôn mặt của cô gái này có điểm đặc thù nào hay không.
+
+Mèo quýt liếc nhìn cô gái với vẻ tò mò.
+
+Cô gái đó vẫn không nhúc nhích, có vẻ như đã ngủ say rồi.
+
+Mèo quýt không nhìn cô ấy nữa, mà yên lặng lắng nghe những câu chuyện mà mấy vị khách còn lại nói.
+
+"Hàng đã làm xong hết rồi, nào, chúng ta cạn một chén."
+
+"Ngươi có tin tức gì về quái vật phía đông kia không? Nếu như có thì ta sẽ mua với giá ba trăm kim tệ hư không."
+
+"Tiểu nhị, đưa ta một tờ báo hôm nay."
+
+"Cái gì? Thế giới kia đã bị quái vật hư không ăn mất rồi sao? Là quái vật nào vậy? Nói nghe chút, có lẽ ta sẽ quen đó."
+
+Đúng lúc này, cửa của quán rượu bị đẩy ra, một cô gái ăn mặc hở hang, trên đầu có hai sừng đang dựa sát lên người một người đàn ông vạm vỡ, đi tới trước quầy bar.
+
+"Cho ta một ly Diễm Dục." Cô gái kia thổi nhẹ bên tai người đàn ông kia, nói.
+
+"Hai ly, chúng ta uống xong thì lại đưa lên tiếp, ta có rất nhiều tiền." Người đàn ông vạm vỡ này ném vài đồng tiền ra rất sảng khoái.
+
+Người phục vụ làm hai ly rượu rất nhanh.
+
+Cô gái kia cắn nhẹ vành tai người đàn ông, nhẹ nhàng hỏi: "Ngươi là người của chủng tộc nào vậy?"
+
+Người đàn ông kia cười cười, nói: "Tới đêm thì ngươi sẽ biết."
+
+Trong nơi hẻo lánh, một con Mèo quýt cảm thấy rất khó hiểu, nhìn về phía con mèo bên cạnh.
+
+"Công tử, tại sao tới đêm thì nàng ta sẽ biết chủng tộc của người đàn ông kia là gì?"
+
+Con Mèo quýt còn lại thì cố gắng giữ cho vẻ mặt của mình trở nên nghiêm túc và lạnh lùng, truyền âm trả lời: "Trên người của bọn họ có sát khí rất nặng, tới đêm sẽ quyết đấu một trận."
+
+Con Mèo quýt trước nghe xong lời giải thích thì mới hiểu được.
+
+Đúng lúc này, trong quán rượu lại vang lên một tiếng cười to.
+
+"Làm gì cần đợi tới buổi tối chứ? Để ta nói cho các ngươi biết đi. Một người trong các ngươi chính là Nhân tộc của thế giới Ác Quỷ, muốn bắt một con ma quỷ chân chính trở về giao nhiệm vụ. Còn một người khác thì lại là ma nữ, vừa trốn thoát khỏi sự điều tra của những thiên sứ kia, đang trong lúc sợ hãi thì bị gieo phù chú Ác Quỷ, có lẽ là một lát sau sẽ ngoan ngoãn giơ tay chịu trói mà thôi."
+
+Đám người bỗng nhiên quay đầu nhìn về phía âm thanh phát ra.
+
+Đó là một cô gái đang say khướt, gục đầu vào mặt bàn, mà trên bàn còn đặt vài vỏ chai rượu.
+
+Người vừa nói chuyện chính là cô gái này.
+
+Cô ta mới vừa ngẩng đầu lên, nhẹ nhàng xoa xoa đôi mắt còn nhập nhèm của mình.
+
+"Yêu nghiệt, dám phá hỏng chuyện của ta..."
+
+Người đàn ông kia vừa phát ra sát ý thì lại bị một người vỗ vỗ bả vai.
+
+Người phục vụ đứng thẳng ở phía sau quầy bar, vừa lúc thu tay về.
+
+Người phục vụ vừa lau bàn, vừa nói bằng giọng bình tĩnh: "Thưa ngài, xin đừng nên đánh nhau trong quán rượu, nếu không thì ai cũng không thể cứu được ngài!"
+
+Người đàn ông kia tức tới đỏ mặt, một lát sau mới nói với giọng không cam tâm: "Ta đương nhiên là biết điều này."
+
+Mà ma nữ cạnh hắn ta đã cách hắn ta một khoảng cách, lúc này đang rút năm kim tệ từ trong ngực ra, đặt lên trên quầy bar.
+
+"Cho ta một chén rượu nữa." Cô ta nói.
+
+"Được, ngài muốn uống thứ gì?" Người phục vụ hỏi.
+
+"Tẩy Lễ."
+
+"Xin lỗi, mặc dù chén rượu kia có thể phá hủy ác chú trên người ngài, thế nhưng ngài không đủ tiền để mua nha."
+
+"Ta... thực sự là không còn tiền, có thể cho ta nợ hay không?" Ma nữ cầu xin.
+
+"Xin lỗi, không thể." Người phục vụ nói với giọng tiếc nuối.
+
+Cả người ma nữ bắt đầu run rẩy.
+
+Phù chú Ác Quỷ kia đã bắt đầu có tác dụng rồi.
+
+Ở nơi hẻo lánh, một con Mèo quýt nhìn về phía một con Mèo quýt khác.
+
+Mèo quýt kia lắc đầu, ánh mắt vẫn luôn nhìn chằm chằm vào cô gái đang say rượu kia, có vẻ như đang nhớ lại điều gì đó.
+
+Thời gian trôi qua quá nhanh, từ lần trước chia tay tới bây giờ, đã rất lâu rồi vẫn chưa từng gặp lại.
+
+Nói thật ra thì mình vẫn phải cảm ơn cô ấy.
+
+Nếu không có cô ấy, thì mình không thể tiếp xúc với Chín trăm triệu tầng thế giới nhanh như vậy, không thể nhận biết mấy người Barry và Mèo Con.
+
+Mình cũng sẽ không thể tiến bộ nhanh như vậy.
+
+Cô gái đang say rượu kia không biết lầm bầm thứ gì, rồi đưa tay vào trong hư không, rút ra một thẻ bài.
+
+"Ma nữ bên kia, tới đây, ta có rất nhiều thẻ bài có thể phá hủy ác chú. Đưa kim tệ của ngươi cho ta, ta sẽ phá hủy ác chú cho ngươi."
+
+Cô gái này nói, rồi chầm chậm ngồi thẳng dậy.
+
+Ma nữ cầm lấy tấm thẻ bài, nâng niu như tìm được báu vật.
+
+Chỉ thấy trên tấm thẻ bài vẽ một tia sáng màu đen, xung quanh đều là người mặc áo bào Tế Tự. Họ vây quanh tia sáng màu đen, bộ dáng như đang múa hát.
+
+Ma nữ nhẹ nhàng dán tấm thẻ bài lên trán mình.
+
+Thẻ bài lập tức tỏa ra tia sáng tối đen, quấn lấy nàng ta.
+
+Mấy hơi thở sau.
+
+Tia sáng đen biến mất, ma nữ không ngừng thở gấp, quỳ trên mặt đất, mặc kệ quanh người đang phát ra tiếng xì xì như có như không.
+
+Hai cái sừng trên đầu cô càng dài ra, cong hơn, da thịt trắng bóc, phía sau có một bóng đen lúc ẩn lúc hiện.
+
+Chương trước Chương sau
+
+1521.
+
+Dạ Như Hi (2)
+
+Cập nhật: 11 tháng trước
+
+1522.
+
+Thay Đổi Đột Ngột
+
+Cập nhật: 11 tháng trước
+
+1523.
+
+Kết Thúc (1)
+
+Cập nhật: 11 tháng trước
+
+1524.
+
+Kết Thúc (2)
+
+Cập nhật: 11 tháng trước
+
+1525.
+
+Không Ai Sống Sót
+
+Cập nhật: 11 tháng trước
+
+1526.
+
+Tìm Kiếm Chân Tướng
+
+Cập nhật: 11 tháng trước
+
+1527.
+
+Làm Quen Với Nhau
+
+Cập nhật: 11 tháng trước
+
+1528.
+
+Lời Đề Nghị Đặc Biệt (1)
+
+Cập nhật: 11 tháng trước
+
+1529.
+
+Lời Đề Nghị Đặc Biệt (2)
+
+Cập nhật: 11 tháng trước
+
+1530.
+
+Đến Sớm
+
+Cập nhật: 11 tháng trước
+
+1531.
+
+Quỷ Dị
+
+Cập nhật: 11 tháng trước
+
+1532.
+
+Trường Thành
+
+Cập nhật: 11 tháng trước
+
+1533.
+
+Gia Nhập
+
+Cập nhật: 11 tháng trước
+
+1534.
+
+Nghĩ Không Ra
+
+Cập nhật: 11 tháng trước
+
+1535.
+
+Giá Trị Chân Chính Của Cô
+
+Cập nhật: 11 tháng trước
+
+1536.
+
+Người Chờ Đợi
+
+Cập nhật: 11 tháng trước
+
+1537.
+
+Người Thông Báo Tận Thế Kết Thúc
+
+Cập nhật: 11 tháng trước
+
+1538.
+
+Đại Điện Bằng Đồng
+
+Cập nhật: 11 tháng trước
+
+1539.
+
+Phức Tự Nữ Sĩ (1)
+
+Cập nhật: 11 tháng trước
+
+1540.
+
+Phức Tự Nữ Sĩ (2)
+
+Cập nhật: 11 tháng trước
+
+Tiên Vực
+
+Thể Loại
+
+Tiên Hiệp Ngôn Tình Võng Du Huyền Huyễn Quân Sự Quan Trường Đô Thị Trọng Sinh Xuyên
+
+Không Dị Giới Dị Năng Linh Dị Trinh Thám Ngược Sắc Hiệp Hài Hước Mạt Thế Hiện Đại Hệ
+
+Thống Lịch Sử Phản Phái Khoa Huyễn Hồng Hoang Đồng Nhân Danh sách
+
+Truyện VIP Truyện miễn phí Truyện đã hoàn Truyện mới cập nhật Hi, demonlike7227
+
+Trang cá nhân
+
+Chư Giới Tận Thế Online (Dịch)

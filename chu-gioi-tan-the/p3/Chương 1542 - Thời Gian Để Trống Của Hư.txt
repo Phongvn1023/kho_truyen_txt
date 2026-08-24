@@ -1,0 +1,371 @@
+Chương 1542. Thời Gian Để Trống Của Hư
+
+Vô Nguyên Thủy
+
+Chương trước Chương sau
+
+Bên trên cây đại thụ này có treo đủ các loại thi thể.
+
+Dường như đi mấy bước là có thể nhìn thấy rất nhiều thi thể quái vật.
+
+Cố Thanh Sơn không quan tâm những chuyện dó, chỉ tập trung đi lên trên đỉnh cây đại thụ.
+
+Hắn nhìn ra xung quanh một cái, lập tức trông thấy món đồ kia.
+
+Một cây cung dài màu xanh thẫm.
+
+Trước tiên Cố Thanh Sơn nắm chặt cây trường cung.
+
+Bên trên Giao diện Chiến Thần lập tức hiện ra dòng chữ nhỏ nhấp nháy:
+
+[Ngài có được vật ký thác sức mạnh Hỗn Loạn, hạt giống sức mạnh Hỗn Loạn, hồn khí cấp mộng cảnh.]
+
+[Cung Linh Hồn Đang Rơi.]
+
+Khác với thế giới rừng rậm bạt ngàn của Cố Thanh Sơn.
+
+Bên trong một thế giới mộng cảnh khác.
+
+Toàn bộ thế giới là một thành phố rộng lớn không hề có một người quen biết.
+
+Diệp Phi Ly rơi từ trên trời xuống một ngõ nhỏ âm u chật hẹp.
+
+Khuôn mặt khổng lồ được tạo thành từ vô số các đầu sọ người xuất hiện trên hư không, đang nhìn hắn ta.
+
+“Tới đây đi, con dân của Hỗn Loạn, Diệt Thế giả nhỏ bé bình thường, để ta xem ngươi có thể làm tới bước nào.”
+
+Nói xong, khuôn mặt khổng lồ biến mất.
+
+Bỗng nhiên một chiếc đồng hồ đeo tay màu trắng xuất hiện, bay lơ lửng trước mặt Diệp Phi Ly.
+
+Trong hư không, từng dòng chữ nhỏ màu xám cũng xuất hiện theo:
+
+[Lần thử thách mộng cảnh này chính thức bắt đầu.]
+
+[Ngươi đã giành được hồn khí cấp mộng cảnh: Đồng Hồ Tội Ác, Thời gian để trống của hư vô nguyên thủy.]
+
+[Ngươi có thể làm chuyện gì đó ở trong thành phố này.]
+
+[Đồng Hồ Tội Ác sẽ dựa vào sự thể hiện của ngươi mà lần lượt cho nhận xét xếp hạng.]
+
+[Bậc nhận xét thấp nhất là bậc 0:00, bậc nhận xét cao nhất là 12:00]
+
+[Ngươi nhất định phải nghĩ cách nâng từ bậc nhận xét 0:00 tới bậc 12:00 trong vòng mười hai tiếng.]
+
+[Chỉ có như vậy ngươi mới có thể có được Hồn khí cấp mộng cảnh, cũng được Người Chờ Đợi ban cho sức mạnh của hạt giống Hỗn Loạn chung cực.]
+
+[Nhân tiện cũng nói thêm một câu, sức mạnh của ngươi đã bị phong tỏa.]
+
+[Giới hạn thực lực cá nhân cao nhất của thế giới này là gấp ba lần sức chiến đấu của ngươi.]
+
+[ Tha hồ mà thể hiện.]
+
+Khi đoạn chữ hiện ra hết thì cũng nhanh chóng biến mất.
+
+Diệp Phi Ly vươn tay, đeo chiếc đồng hồ kia lên tay trái của mình.
+
+“Dùng thời gian như một hệ thống xếp hạng mà không cho bất kỳ gợi ý nào, cái này cũng thật hiếm thấy, rốt cuộc là làm thế nào để tăng xếp hạng nhận xét?”
+
+Trong lúc Diệp Phi Ly đang suy nghĩ thì chợt nghe có tiếng động.
+
+Bên ngoài ngõ nhỏ, có tiếng nổ liên tục vang lên.
+
+Tiếng còi cảnh sát chói tai.
+
+Tiếng bắn nhau.
+
+Tiếng kêu thảm thiết.
+
+Tiếng truy đuổi.
+
+Và…
+
+Tiếng nói gần ngay đây:
+
+“Mau đưa tiền ra!”
+
+Diệp Phi Ly quay đầu nhìn lại.
+
+Chỉ thấy hai người đàn ông to lớn cầm con dao găm trong tay, bức một người đàn ông gầy yếu vào góc tường.
+
+“Giao hết tiền trên người ra đây, nếu không ta đâm ngươi thủng người.”
+
+“Nhanh tay lên đi!”
+
+Hai người hạ giọng nói.
+
+Người đàn ông gầy yếu kia quỳ trên mặt đất, cầu xin: “Hai vị đại ca, xin thương xót…”
+
+“Bớt nói nhảm đi!” Một trong hai người đàn ông to lớn vung dao lên, quát.
+
+Gã ta giơ dao lên, đâm vào trên thân người đàn ông gầy yếu kia.
+
+Keng!
+
+Một ánh sáng màu đỏ lóe lên.
+
+Con dao găm trong tay gã bị đánh bay.
+
+Biến cố bất ngờ xảy ra làm cho hai người vội vàng nhìn về nơi phát ra ánh sáng màu đỏ.
+
+Chỉ thấy một thanh niên tuấn tú đứng bên kia đường, đang giơ cổ tay lên nhìn thời gian trên đồng hồ.
+
+“Siêu Phàm giả? Tránh xa ra, khi ông đây nghịch năng lực thì ngươi vẫn còn đang bú sữa đấy!” Gã vạm vỡ còn lại quát.
+
+Gã ta rút từ bên hông ra một thanh đoản đao.
+
+Bên trên thanh đao dần dần bùng lên một ngọn lửa hừng hực.
+
+Đao lửa!
+
+Diệp Phi Ly cảm nhận được uy lực của thanh đao lửa này, cuối cùng hắn ta cũng ngẩng đầu lên nhìn về phía hai người đàn ông to lớn kia.
+
+“Năng lực siêu phàm? Một tên tiểu tốt mà cũng có?”
+
+Hắn ta hơi kinh ngạc.
+
+Đúng lúc này, đột nhiên người đàn ông gầy yếu đang quỳ trên mặt đất biến thành một bãi nước bùn, ngấm xuống mặt đất, biến mất trước mặt ba người.
+
+Diệp Phi Ly lẩm bẩm: “Toàn là dân siêu phàm?”
+
+Hắn ta duỗi một ngón tay ra.
+
+Đầu ngón tay biến thành một đường sáng màu đỏ, bay đi như điện.
+
+Gã to lớn vừa giơ đao lên thì cả người đã bị đường sáng kia chẻ thành mấy khúc.
+
+Đồng bạn của gã ta bị vệt sáng cắt qua, cũng bị mất đầu ngay tại chỗ.
+
+“Thật không phải, khi ta biết sử dụng năng lực thì các ngươi còn đang bú sữa.”
+
+Diệp Phi Ly nói một cách áy náy.
+
+Hắn ta tiếp tục cúi đầu nhìn đồng hồ.
+
+Chỉ thấy kim phút của đồng hồ thì đứng im, còn kim giây bắt đầu di chuyển về phía trước.
+
+Một dòng chữ nhỏ màu xám cũng xuất hiện:
+
+[Dựa theo thể hiện của ngươi, ngươi tiến vào phút đầu tiên.]
+
+[Ngươi có một khởi đầu tốt.]
+
+[Kết hợp với phẩm chất riêng của ngươi, Đồng Hồ Tội Ác giao cho ngươi sức mạnh siêu phàm đầu tiên.]
+
+[Mặt Nạ Thằng Hề]
+
+[Luật nhân quả: Khi ngươi đeo tấm mặt nạ này lên thì có thể làm cho bất kỳ người nào nhìn thấy ngươi cũng đều coi ngươi là đồng loại.]
+
+[Năng lực này mỗi ngày chỉ sử dụng một lần, mỗi lần mười phút.]
+
+[Trong quá trình sử dụng năng lực, ngươi phải giết chết ít nhất một tồn tại coi ngươi là đồng loại để thỏa mãn pháp tắc luật nhân quả của mặt nạ.]
+
+[Nếu ngươi sử dụng năng lực này mà lại không giết chết bất kỳ một “đồng loại” bị ngươi làm cho mê muội nào, thì Mặt Nạ Thằng Hề sẽ lấy của ngươi đi mười năm tuổi thọ.]
+
+[Trong lúc ngươi tấn công “đồng loại” thì hiệu quả của mặt nạ cũng biến mất theo.]
+
+[Chú ý: bề ngoài của mặt nạ có thể thay đổi tùy theo ý thích.]
+
+Diệp Phi Ly nhanh chóng đọc xong, tự lẩm bẩm: “Hơi khác với tưởng tượng… giống như là đang bước vào kịch bản bí mật của một trò chơi…”
+
+Nếu như mỗi một phút trên mặt đồng hồ này đều là một loại sức mạnh siêu phàm cấp Luật Nhân Quả, vậy thì cái “Đồng Hồ Tội Ác” này sẽ có được tất cả là bảy trăm hai mươi sức mạnh Luật Nhân Quả!
+
+Thực đúng là không thể tưởng tượng nổi!
+
+Thế nhưng những chuyện này còn cần phải chứng minh thêm.
+
+Lúc này, tiếng ồn ào ngoài kia càng ngày càng lớn, trận chiến kịch liệt dường như đang dần khuếch tán ra bốn phía xung quanh.
+
+Diệp Phi Ly đi tới đầu ngõ, nhìn ra bên ngoài.
+
+Chỉ thấy mấy chục người mặc đồng phục cảnh sát đang hốt hoảng chạy trốn.
+
+Sau lưng bọn họ, có bảy tám chiếc xe cảnh sát đã bị phá hủy hoàn toàn.
+
+Một thi thể bị vứt từ trong ngân hàng ra ngoài.
+
+“Đội trưởng đội đặc vụ!”
+
+Có tên cảnh sát hoảng sợ kêu lên.
+
+Trên thi thể kia có tới cả trăm lỗ thủng, không biết đã bị trúng bao nhiêu phát đạn, đã chết đến mức không thể chết thêm được nữa.
+
+Trong ngân hàng truyền ra một tiếng nói: “Còn dám tấn công, bọn ta sẽ giết sạch những người còn lại!”
+
+“Tất cả cút xa ra cho ta!”
+
+“Một đám bỏ đi, tất cả tiền này là của chúng ta!”
+
+Trong ngân hàng lại truyền ra tiếng cười to.
+
+Đám cảnh sát cúi đầu xuống, nhanh chóng chạy biến đi không thấy đâu nữa.
+
+“Chạy mau, đây là trận đấu cá nhân của những người ở trên, chúng ta không thể quản.”
+
+"Đúng đúng đúng, chúng ta chỉ giữ gìn trị an, còn giữa những đại nhân vật kia thì…”
+
+Hai tên cảnh sát chạy ngang qua đầu ngõ, vừa đi vừa nói chuyện.
+
+Diệp Phi Ly tựa người trên tường, im lặng lắng nghe.
+
+Hình như tình hình rất phức tạp…
+
+Hắn ta nhìn lên “Đồng Hồ Tội Ác.”.
+
+Kim đồng hồ đã đứng im, kim giây đã đi hết một vòng và dừng lại.
+
+Kim phút dịch chuyển được một vạch.
+
+Phút đầu tiên.
+
+Còn cần bảy trăm mười chín phút nữa mới có thể thắng được hồn khí cấp mộng cảnh này.
+
+“Người ở bên trong nghe đây, các ngươi đã bị bao vây! Bỏ vũ khí xuống và đầu hàng là con đường thoát thân duy nhất của các ngươi!”
+
+Bọn cướp từ bên trong ngân hàng nhìn ra ngoài.
+
+Trên sân quảng trường trước ngân hàng là một cảnh hỗn độn, xe cảnh sát đã bị hất tung, ngả nghiêng trên mặt đất.
+
+Ở bên cạnh một chiếc xe còn có thể xem là nguyên vẹn, có một người đứng đó trơ trọi một mình.
+
+Hắn ta là người còn sống duy nhất trên toàn bộ quảng trường.
+
+Trong tay hắn ta cầm một cái loa phát thanh, lớn tiếng nói: “Lặp lại một lần nữa, người bên trong nghe đây, các ngươi đã bị bao vây, bỏ vũ khí xuống và đầu hàng là con đường thoát thân duy nhất của các ngươi.”
+
+Chương trước Chương sau
+
+1521.
+
+Dạ Như Hi (2)
+
+Cập nhật: 11 tháng trước
+
+1522.
+
+Thay Đổi Đột Ngột
+
+Cập nhật: 11 tháng trước
+
+1523.
+
+Kết Thúc (1)
+
+Cập nhật: 11 tháng trước
+
+1524.
+
+Kết Thúc (2)
+
+Cập nhật: 11 tháng trước
+
+1525.
+
+Không Ai Sống Sót
+
+Cập nhật: 11 tháng trước
+
+1526.
+
+Tìm Kiếm Chân Tướng
+
+Cập nhật: 11 tháng trước
+
+1527.
+
+Làm Quen Với Nhau
+
+Cập nhật: 11 tháng trước
+
+1528.
+
+Lời Đề Nghị Đặc Biệt (1)
+
+Cập nhật: 11 tháng trước
+
+1529.
+
+Lời Đề Nghị Đặc Biệt (2)
+
+Cập nhật: 11 tháng trước
+
+1530.
+
+Đến Sớm
+
+Cập nhật: 11 tháng trước
+
+1531.
+
+Quỷ Dị
+
+Cập nhật: 11 tháng trước
+
+1532.
+
+Trường Thành
+
+Cập nhật: 11 tháng trước
+
+1533.
+
+Gia Nhập
+
+Cập nhật: 11 tháng trước
+
+1534.
+
+Nghĩ Không Ra
+
+Cập nhật: 11 tháng trước
+
+1535.
+
+Giá Trị Chân Chính Của Cô
+
+Cập nhật: 11 tháng trước
+
+1536.
+
+Người Chờ Đợi
+
+Cập nhật: 11 tháng trước
+
+1537.
+
+Người Thông Báo Tận Thế Kết Thúc
+
+Cập nhật: 11 tháng trước
+
+1538.
+
+Đại Điện Bằng Đồng
+
+Cập nhật: 11 tháng trước
+
+1539.
+
+Phức Tự Nữ Sĩ (1)
+
+Cập nhật: 11 tháng trước
+
+1540.
+
+Phức Tự Nữ Sĩ (2)
+
+Cập nhật: 11 tháng trước
+
+Tiên Vực
+
+Thể Loại
+
+Tiên Hiệp Ngôn Tình Võng Du Huyền Huyễn Quân Sự Quan Trường Đô Thị Trọng Sinh Xuyên
+
+Không Dị Giới Dị Năng Linh Dị Trinh Thám Ngược Sắc Hiệp Hài Hước Mạt Thế Hiện Đại Hệ
+
+Thống Lịch Sử Phản Phái Khoa Huyễn Hồng Hoang Đồng Nhân Danh sách
+
+Truyện VIP Truyện miễn phí Truyện đã hoàn Truyện mới cập nhật Hi, demonlike7227
+
+Trang cá nhân
+
+Chư Giới Tận Thế Online (Dịch)
