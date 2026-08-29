@@ -78,7 +78,7 @@ Công tử, ta cảm giác vẫn là khiêm tốn một chút tốt hơn. Cẩu
 
 Điểm nộ khí +111.
 
-......
+
 
 Không nhìn thấy Âm Ma, nhưng mà lại có điểm nộ khí đánh tới, xem ra trốn ở trong bóng tối Âm Ma, đã nhớ lại chính mình là ai.
 
@@ -126,7 +126,7 @@ Một lần duy nhất bộc phát, có hạn chế, nhưng nếu như cho đầ
 
 Điểm nộ khí +222.
 
-......
+
 
 Âm Ma không phải rất mạnh, hơi có chút khiến người ta thất vọng.
 
@@ -166,7 +166,7 @@ Lâm Phàm bất đắc dĩ nói: Không cần thiết như vậy đi, cũng là
 
 Điểm nộ khí +333.
 
-......
+
 
 Chung quanh Âm Ma nhóm gầm nhẹ, phát ra tức giận tê minh thanh.
 
@@ -188,17 +188,17 @@ Nàng không thể không đem Âm Ma nhất tộc dời ra ngoài, đồng th�
 
 Cái mông của ngươi thật tròn. Lâm Phàm không hiểu thấu nói.
 
-Âm Ma Vương: ???
+Âm Ma Vương:
 
 Lâm Phàm: Hơn nữa còn rất lớn.
 
-Âm Ma Vương: ???
+Âm Ma Vương:
 
-Lâm Phàm: Ngực của ngươi thật sự......
+Lâm Phàm: Ngực của ngươi thật sự.
 
-Cẩu tử: ???
+Cẩu tử:
 
-Chín yêu: ???
+Chín yêu:
 
 Cẩu tử vốn cho rằng công tử quá mức nhàm chán, mới có thể đến tìm Âm Ma, nhưng tình huống kế tiếp, lại là có cái gì không đúng.
 
@@ -258,7 +258,7 @@ Ngày.
 
 Đây cũng không phải là đơn giản tâm sự đơn giản như vậy, mà là hướng về cấp độ sâu bên trên phát triển.
 
-......
+
 
 Tô gia lão tổ hành tẩu tại các đại đỉnh tiêm môn phái, hi vọng có thể thuyết phục những thứ này đỉnh tiêm tông môn xuất động cao thủ đi biên phòng chống cự liên minh.
 
@@ -368,7 +368,7 @@ Bất lực.
 
 Hắn tại tông môn địa vị rất cao, nhưng mà tại lúc trước hắn, còn rất nhiều người có thể đè lên hắn.
 
-......
+
 
 Một chỗ khác.
 
@@ -396,7 +396,7 @@ Những hành vi này, nếu như đặt ở trước đó, hắn chỉ sợ cũ
 
 Mà Ngư Vân Mộng đối với thật minh khoảng cách, cũng tại trong lúc bất tri bất giác thu nhỏ.
 
-......
+
 
 Lâm Phàm hài lòng rời đi Đông Giao rừng rậm.
 
@@ -434,7 +434,7 @@ Chẳng lẽ là lúc trước nói những lời kia?
 
 Cẩu tử gặp công tử thần sắc có chút không đúng, tưởng rằng đang lo lắng.
 
-Công tử, ngươi đem lão gia an bài việc hôn nhân đều cho thoái thác sau, ta cho là công tử là có người thích, UUKANSHU đọc sách www.uukanshu.com Bây giờ ta mới hiểu được, nguyên lai công tử là có khác ý nghĩ, yên tâm, ta mãi mãi cũng tại công tử bên cạnh.
+
 
 Cố lên, công tử, vì hạnh phúc của mình, dù là người khác không hiểu ngươi, ta cũng biết hiểu ngươi.
 
@@ -452,7 +452,7 @@ Không nghĩ tới cư nhiên bị hiểu lầm.
 
 Suy nghĩ một chút Âm Ma Vương bộ dáng, bị hù Cát Cát đều mềm nhũn.
 
-Hắn thừa nhận, Âm Ma Vương vóc người thật là không thể chê, nhưng mà...... Ngươi hiểu.
+Hắn thừa nhận, Âm Ma Vương vóc người thật là không thể chê, nhưng mà. Ngươi hiểu.
 
 Liên minh chi địa.
 
@@ -484,4 +484,4 @@ Thật phiền phức.
 
 https://
 
-Xin nhớ kỹ quyển sách xuất ra đầu tiên tên miền:. Diệu phòng sách bản điện thoại di động đọc địa chỉ Internet:
+Xin nhớ kỹ quyển sách xuất ra đầu tiên tên miền: Diệu phòng sách bản điện thoại di động đọc địa chỉ Internet:
