@@ -1,0 +1,145 @@
+Chương 942. Không thể cứu vãn
+
+Trên lôi đài truyền đến từng trận tiếng sấm rền, tình hình chiến đấu vô cùng kịch liệt.
+
+Mặc dù cuộc thi đấu Minh Nguyệt chỉ có một danh ngạch, thế nhưng lực hấp dẫn của nó quá lớn, cho nên lần này có đến khoảng mấy vạn võ giả trẻ tuổi báo danh!
+
+Cuộc chiến đang tiến hành trước mắt này chỉ là vòng sơ tuyển.
+
+Các tuyển thủ được chia làm mấy trận thi đấu, tiến hành chém giết mấy lượt, cuối cùng mới chọn ra mười sáu người tiến vào trận chiến chung kết tranh đoạt lần cuối cùng.
+
+Cho nên, những người tự xưng là võ giả thiên tài lợi hại này đều dùng thái độ chiến đấu hết sức mình chính là vì để chém giết tiến vào trận chung kết.
+
+Mấy ngày này đã có tin tức truyền tới, Nguyệt Mộng Ly đang tiếp nhận trị liệu của cường giả bí ẩn, rất có khả năng khôi phục lại được sức khỏe.
+
+Tin tức này vừa được đưa ra thì những thiên tài võ giả kia, mỗi một người đều đánh nhau càng hãng hái hơn giống như được tiêm máu gà.
+
+Phải biết rằng, Nguyệt Mộng Ly chính là mỹ nhân tuyệt thế nổi tiếng cả Thần Vực. Luận về độ xinh đẹp, cũng chỉ có Linh Tuyết
+
+Thần Vương lánh đời mới có thể cùng sánh vai.
+
+Linh Tuyết Thần Vương thì bọn họ cũng không cần nghĩ đến, thế nhưng Nguyệt Mộng Ly, bọn họ có thể đưa tay với tới được.
+
+Chỉ cần bọn họ thắng được cuộc thi đấu Minh Nguyệt mà thôi!
+
+Trác Bất Phàm là truyền nhân của Thần Quốc ở siêu cấp thánh địa
+
+Thiên Trì, đã trở thành người đứng đầu có khả năng đoạt giải quán quân lớn nhất.
+
+Gần với Trác Bất Phàm, chính là Chu Ngạn của Hạo Nhật Thành.
+
+Mặt khác, Bạch Hàn truyền nhân của thánh địa cấp một Xích Vân
+
+Tông, Khương Ngôn Tài truyền nhân của thánh địa Bắc Đẩu, cùng với đám người Đường Vũ của thánh địa Linh Hạc cũng rất có khả năng đoạt được giải quán quân.
+
+Những võ giả thiên tài này không có một ai ngoại lệ, tất cả đều là cường giả Đạo Huyền tầng một!
+
+Ở tuổi này của bọn họ mà đã có thể bước vào Đế cảnh, tuyệt đối đều là nhân vật nhất đẳng. Tương lai của mấy người trẻ tuổi này, chắc chắn sẽ trở thành một đời cường giả mới của Thần Vực.
+
+Thực lực của những người này hẳn là đều sàn sàn với nhau. Còn việc, đến cuối cùng ai có thể thắng được thì vẫn là phải xem khả năng phát huy được khi lâm trận.
+
+Nhưng mà, nhiều thiên tài võ giả như vậy sẽ luôn có một vài hắc mã vươn lên.
+
+Khiến người ta bất ngờ nhất là, trong mười sáu cường giả vào chung kết vẫn còn có một tên võ giả Vô Tướng Cảnh.
+
+Đó là một thanh niên mang áo đen, khuôn mặt tuấn tú, thế nhưng ánh mắt thâm thúy kia lại nói cho mọi người biết, người này không hề dễ chọc.
+
+"Tên Lâm Siêu kia xuất hiện từ nơi nào? Nghe nói trận chiến cuối cùng của hắn chính là được tấn cấp nhờ đánh bại thiên tài võ giả của thánh địa cấp một.”
+
+“Trong tài liệu của hắn được viết là xuất thân từ Thần Võ Điện, nhưng mà cái Thần Võ Điện này là thế lực như thế nào thì hình như từ trước đến nay chưa từng nghe nói qua!”
+
+"Xem ra đấy cũng chỉ là một thế lực nhỏ, tên Lâm Siêu này có thể được tấn cấp có khi cũng nhờ vận khí tốt. Có lẽ nhóm thi đấu của hắn không có xuất hiện thiên tài Đạo Huyền Cảnh, bằng không khẳng định sẽ không đến lượt hắn.”
+
+“Ừm, nói cũng phải. Có một tên thiên tài Đạo Huyền Cảnh của thánh địa cấp một, vận khí không tốt bị chia cùng một nhóm với
+
+Trác Bất Phàm, kết quả vô cùng bi thảm.”
+
+Mười sáu người cuối cùng còn sót lại, đại bộ phận đều nằm trong dự liệu. Chỉ có hắc mã như Lâm Siêu mới trở thành đề tài câu chuyện cho tất cả mọi người.
+
+Lâm Siêu đứng trên đài cao, lạnh lùng nhìn mọi người dưới đài, trong lòng cười lạnh: “Diệp Viễn, chờ đến lúc ngươi thấy ta, hẳn là sẽ rất kinh ngạc đi? Lúc này đây, ta muốn tự tay đánh bại ngươi, sau đó để ngươi trừng mắt lên mà nhìn ta lấy nữ nhân của ngươi!”
+
+Nếu như Diệp Viễn ở chỗ này, hắn sẽ lập tức nhận ra tên Lâm Siêu này, chính là Lâm Siêu của Tử Thần Tông ở Vô Biên Giới!
+
+Năm đó hắn bị Diệp Viễn đánh cho trọng thương, cuối cùng biến mất không thấy gì nữa.
+
+Bây giờ không ngờ rằng hắn lại xuất hiện ở Thần Vực!
+
+Nhưng mà thực lực của Lâm Siêu lúc này đã không thể so sánh nổi.
+
+Nhiều năm không gặp, cảnh giới của hắn đã vượt xa Diệp Viễn, đạt đến Vô Tướng Cảnh đỉnh phong!
+
+Cuộc thi đấu trên lôi đài trước đó, hắn đã ung dung đánh bại một tên thiên tài trẻ tuổi của thánh địa cấp một.
+
+Có thể thấy được, thực lực của hắn còn mạnh hơn cảnh giới của bản thân rất nhiều.
+
+Đương nhiên, cơ hội đứng đầu lớn nhất cuộc thi đấu Minh Nguyệt lần này vẫn là thuộc về Trác Bất Phàm.
+
+Sự thâm sâu của siêu cấp thánh địa không phải thường nhân có thể tưởng tượng được. Ngay cả tồn tại như Thập Đại Thần Vương cũng không dám tùy tiện trêu chọc đến siêu cấp thánh địa.
+
+Trác Bất Phàm này chính là truyền nhân của siêu cấp thánh địa, thực lực tất nhiên là không tầm thường.
+
+Nhưng mà dường như chỉ có Vô Tướng tầng chín đỉnh phong như
+
+Lâm Siêu mới không thèm để hắn vào mắt.
+
+Lúc này, Nguyệt Mộng Ly tu luyện Mặc Lưu Phân Thần Thuật, thần hồn trong đầu thật sự hóa thành một mớ hỗn độn!
+
+“Ly Nhi, hiện tại đã đến thời khắc mấu chốt nhất là phân tách thần hồn! Quá trình này vô cùng thống khổ, cũng vô cùng hung hiểm!
+
+Trước tiên nàng hãy dùng Ly Hồn Đan, chờ đến lúc thần hồn phân thành hai thì nó sẽ lấy tốc độ nhanh nhất để chữa trị cho hai thần hồn bị hao tổn của nàng, do đó trước hết nó có thể bảo vệ nàng vượt qua được lúc nguy hiểm nhất! Vì để phòng ngừa chuyện không may, hồn lực của ta sẽ tiến vào trong não của nàng để trợ trụ!” Sắc mặt của Diệp Viễn ngưng trọng nói.
+
+Phân tách thần hồn, cho dù là cường giả như Diệp Viễn bực này cũng phải hết sức cẩn thận. Không cẩn thận một chút thì chỉ có kết cục hồn phi phách tán.
+
+Diệp Viễn có Trấn Hồn Châu tương trợ, sẽ không có vấn đề gì, thế nhưng Nguyệt Mộng Ly lại không có. Cho nên, Diệp Viễn cũng là làm vẹn toàn chuẩn bị, nỗ lực canh chừng nguy hiểm xuống đến thấp nhất.
+
+Nguyệt Mộng Ly hít sâu một hơi, khẽ gật đầu nói: "Được, ta bắt đầu đây!”
+
+Nguyệt Mộng Ly lập tức vận chuyển theo pháp quyết của Mặc Lưu
+
+Phân Thần Thuật, bắt đầu phân liệt thần hồn! Vừa mới bắt đầu thì đã có cảm giác đau thấu tim gan giống như thiểm điện cuộn sạch toàn thân.
+
+“Hít...”
+
+Lúc này, thần hồn của Nguyệt Mộng Ly cũng không phải kiểu bị xé rách hai loại linh thể mà là chân chính nứt ra!
+
+Loại cảm giác đau đớn này còn mãnh liệt hơn bị xé rách gấp trăm lần!
+
+Sắc mặt của Diệp Viễn cũng vô cùng khó coi, trầm giọng nói: “Một tiếng trống tăng khí thế, hai tiếng thì suy, ba tiếng thì kiệt! Ly Nhi, một khi đã cắt thì không thể bỏ dở nửa chừng!”
+
+Nghe thấy lời nói của Diệp Viễn, Nguyệt Mộng Ly không do dự nữa, liều mạng vận chuyển Mặc Lưu Phân Thần Thuật.
+
+Một mớ hỗn độn kia giống như tế bào phân tách, thời gian dần dần trôi qua nó sẽ một phân thành hai!
+
+Cùng lúc đó, rốt cuộc dược lực của Ly Hồn Đan cũng phát huy tác dụng. Một cỗ năng lượng ôn nhuận bọc lấy hai luồng hỗn độn đang dần dần nứt ra, sau đó bắt đầu liều mạng chữa trị.
+
+Nhưng ngay lúc đó, Diệp Viễn đột nhiên phát hiện, Nguyệt Mộng
+
+Ly vận chuyển Mặc Lưu Phân Thần Thuật càng ngày càng chậm.
+
+Diệp Viễn biến sắc, hắn biết Nguyệt Mộng Ly đã sắp cầm cự không nổi. Loại đau như xé này, căn bản thường nhân không cách nào tưởng tượng nổi.
+
+“Ly Nhi, cố gắng chịu đựng!” Diệp Viễn quát khẽ.
+
+Nhưng mà ý thức của Nguyệt Mộng Ly đã dần dần mơ hồ, không thể nghe được lời Diệp Viễn nói.
+
+Nếu cứ tiếp tục như vậy thì chắc chắn Nguyệt Mộng Ly sẽ chết!
+
+Mặc dù đã sớm đoán được cửa ải này không hề dễ dàng, nhưng
+
+Diệp Viễn lại không nghĩ rằng sẽ khó tới mức này.
+
+Diệp Viễn biết, Nguyệt Mộng Ly quanh năm suốt tháng đã bị hai loại linh thể dằn vặt, thần hồn thật sự đã vô cùng suy yếu rồi. Sử dụng Mặc Lưu Phân Thần Thuật sẽ tạo ra gánh nặng cực lớn đối với thần hồn.
+
+Nhưng Diệp Viễn cũng không còn sự lựa chọn nào khác.
+
+Nếu không sử dụng Mặc Lưu Phân Thần Thuật thì trạng thái của
+
+Nguyệt Mộng Ly sẽ càng ngày càng kém hơn.
+
+“Chết tiệt!”
+
+Diệp Viễn nghiến chặt hai hàm răng, hồn lực bàng bạc bay về phía mớ thần hồn hỗn độn của Nguyệt Mộng Ly, điên cuồng tu bổ thương tích do thần hồn bị xé rách mang đến.
+
+Nhưng mà vẫn giống như muối bỏ biển!
+
+Ý thức của Nguyệt Mộng Ly càng ngày càng yếu đi, một nửa hỗn độn đang được phân tách dần dần trở nên mỏng manh, gần như là muốn tiêu tán hoàn toàn!

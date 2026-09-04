@@ -1,0 +1,151 @@
+Chương 1375. Kiếm Trủng
+
+"Ngươi nói cái gì? Diệp Viễn hắn... vượt qua khảo hạch, tiến nhập học phủ Võ Mông? Ha... Ha ha, quá tốt. Thiên đường có lối ngươi không đi, địa ngục không cửa ngươi lại xông tới."
+
+Khi Vương Tùng nghe được tin tức Diệp Viễn tiến nhập học phủ
+
+Võ Mông, cả người đều chấn động.
+
+Sau khi kinh ngạc một lúc, Vương Tùng mừng như điên.
+
+Nếu như Diệp Viễn một mực trốn ở Vạn Bảo Lâu, vậy thì hắn đúng là không có biện pháp nào.
+
+Nhưng bây giờ, cơ hội của hắn đã tới.
+
+"Ngươi nói cái gì? Điểm tích lũy của Diệp Viễn còn cao hơn người đứng đầu?"
+
+Tuy nhiên khi hắn nghe nói chuyện Diệp Viễn lấy thành tích điểm tích lũy đứng đầu mà tiến nhập vào học phủ Võ Mông thì cả người đều rung động.
+
+Một lúc lâu sau, Vương Tùng mới hồi phục tinh thần lại, lẩm bẩm nói: "Tiểu tử này khó đối phó, lần này, nhất định phải một kích chí mạng."
+
+Trần Vĩnh Niên gật đầu nói: "Tiểu tử này không biết sống chết, tại khảo hạch đã đắc tội với đệ nhất thiên tài Hoàng Ninh Thành là Cổ
+
+Trùng. Mặt khác, Tần gia Tần Thiệu lần này lấy được vị trí đứng đầu, tiền đồ không thể đong đếm. Ta nghe nói lúc Diệp Viễn vào thành dường như đã đắc tội với Tần gia nha?"
+
+Vương Tùng hơi bất ngờ liếc hắn một cái, cười nói: "Xem ra tin tức của ngươi rất nhanh nhạy. Không tồi, tiểu tử này quả nhiên là chuyên gia gây chuyện. Tuy nhiên chuyện này chúng ta còn cần bàn bạc kỹ hơn. Dù sao, bên trong học phủ không cho phép gây ra án mạng. Một khi rút dây động rừng, chúng ta sẽ không có cơ hội thứ hai."
+
+Trần Vĩnh Niên nói: "Trên người tiểu tử Diệp Viễn kia mang một con Ác linh nhị tinh hậu kỳ, hơi khó đối phó. Nhưng mà ta nghe nói, hắn rất thân thiết với một tên mập, chúng ta… có thể khai thác nhược điểm này của hắn không?"
+
+Vương Tùng hai mắt tỏa sáng, khen ngợi nói: "Không sai, xác thực có thể lợi dụng tên mập kia. Còn về phần Tần gia thì tạm thời không nên động."
+
+Sau khi tiến nhập học phủ Võ Mông, Diệp Viễn dành cả ngày để tìm hiểu về nơi này.
+
+Đây là một học phủ cực kỳ rộng lớn, mỗi ngày đều có lão sư cảnh giới Quy Khư tới giảng bài.
+
+Thế nhưng đi nghe giảng hay không đều tùy ý mỗi người.
+
+Giữa quảng trường của học phủ Võ Mông, có hai tảng đá lớn tên là
+
+Tích Phân Thạch.
+
+Điểm tích lũy của mỗi học viên đều sẽ hiện trên Tích Phân Thạch.
+
+Một khối Tích Phân Thạch ghi chép điểm tích lũy của đệ tử nội viện, khối Tích Phân Thạch còn lại thì ghi chép điểm tích lũy của đệ tử ngoại viện.
+
+Dữ liệu của Tích Phân Thạch được cập nhật theo thời gian thực, mọi thay đổi đều lập tức được ghi lại trên Tích Phân Thạch.
+
+Điều quan trọng là qua mỗi mười năm, học phủ Võ Mông sẽ đào thải hai mươi học viên có xếp hạng thấp nhất trên Tích Phân
+
+Thạch, trục xuất khỏi học phủ Võ Mông.
+
+Tỉ lệ đào thải này rất cao, cao đến dọa người.
+
+Học viên của học phủ Võ Mông tối đa chỉ có thể tu luyện một ngàn năm.
+
+Sau một ngàn năm thì bất kể là tu luyện tới cảnh giới gì cũng đều không thể ở lại bên trong học phủ.
+
+Mỗi một trăm năm, học phủ sẽ tuyển khoảng hai trăm đến năm trăm học viên.
+
+Tuy nhiên mỗi mười năm sẽ đào thải hai mươi học viên.
+
+Nói cách khác, trong thời gian một trăm năm, học phủ sẽ đào thải hai trăm học viên.
+
+Không tiến ắt lùi.
+
+Sau khi tiến nhập học phủ, học viên không được phép có một tia buông lỏng.
+
+Hai trăm học viên bị loại bỏ kia không nhất định phải là học viên mới, cũng có thể có học viên cũ.
+
+Tất cả đệ tử ngoại viện đều khảo hạch ở cùng một chỗ.
+
+Mặt khác, hành tẩu ở trong học phủ, điểm tích lũy sẽ không ngừng tiêu hao.
+
+Vô luận là tu luyện võ kỹ, công pháp, hay là đổi đan dược thì đều cần đến điểm tích lũy.
+
+Cho nên muốn không bị đào thải thì nhất định phải không ngừng kiếm lấy điểm tích lũy.
+
+Cách để kiếm điểm tích lũy thì có rất nhiều, ví dụ như làm nhiệm vụ, khiêu chiến học viên khác, hoặc là... vượt cửa khảo hạch.
+
+Mỗi ngày học phủ đều sẽ tuyên bố một ít nhiệm vụ, học viên hoàn thành xong nhiệm vụ sẽ nhận được một số lượng điểm tích lũy nhất định.
+
+Khiêu chiến học viên là đường tắt để kiếm điểm tích lũy, ngươi có thể không ngừng khiêu chiến học viên khác, trong thời gian ngắn kiếm được một lượng điểm tích lũy tương đối.
+
+Đương nhiên, điều kiện tiên quyết là ngươi phải thắng.
+
+Khiêu chiến này cũng không được tùy ý chọn đối thủ, chỉ có thể khiêu chiến mười tên đối thủ có xếp hạng cao hơn mình tại Tích
+
+Phân Thạch.
+
+Người thắng sẽ thu được số lượng điểm tích lũy nhất định, người thua thì bị khấu trừ.
+
+Nếu như đối thủ mà ngươi khiêu chiến đang không chấp hành nhiệm vụ hoặc vượt cửa thì bắt buộc sẽ phải ứng chiến.
+
+Cách thứ ba để có điểm tích lũy chính là vượt cửa... Lúc này Diệp
+
+Viễn đang ở bên ngoài Kiếm Trủng.
+
+Kiếm Trủng là nơi ngộ kiếm của học phủ Võ Mông, bên trong có mười tám tầng, mỗi khi qua được một tầng thì sẽ thu được lượng điểm tích lũy nhất định.
+
+"Vị sư huynh này, ta muốn vào trong Kiếm Trủng, đây là lệnh bài học phủ của ta."
+
+Vừa nói Diệp Viễn vừa đưa lên một tấm lệnh bài, đây là lệnh bài thân phận mà học phủ Võ Mông phát cho hắn sau khi hắn nhập học.
+
+Triệu Thấm là đệ tử nội viện, trước đó vài ngày tiếp nhận nhiệm vụ trông coi Kiếm Trủng này, cũng khá thích ý.
+
+Triệu Thấm quan sát Diệp Viễn, khinh thường nói: "Mới tới à?
+
+Ngươi biết độ nguy hiểm của Kiếm Trủng chứ? Bằng vào chút thực lực của ngươi mà đi vào thì sẽ bị phanh thây đấy, ta khuyên ngươi đi tu luyện trước đi, xong rồi lại vào cũng không muộn."
+
+Diệp Viễn cười nói: "Đa tạ sư huynh quan tâm, nhưng mà ta cảm thấy rất hứng thú đối với Kiếm Trủng này, muốn vào xem một phen."
+
+Triệu Thấm trợn mắt, nói: "Ha ha, ngươi muốn chết thì cũng tùy ngươi. Tiến nhập Kiếm Trủng sẽ khấu trừ hai mươi điểm tích lũy, ngươi có thời gian một tháng để ngộ kiếm. Đương nhiên, điều kiện tiên quyết là ngươi có thể ngộ được kiếm."
+
+Trước mặt Triệu Thấm có một tấm ngọc bích nhỏ, hắn quẹt lệnh bài học phủ của Diệp Viễn lên một cái, sắc mặt khinh thường trong nháy mắt biến mất.
+
+Hắn nhướng mày, có chút không dám tin nhìn về phía Diệp Viễn nói: "Cái gì... Tại sao ngươi có thể có nhiều điểm tích lũy như vậy?
+
+Lẽ nào… ngươi là người đứng đầu của đợt khảo hạch lần này?"
+
+Diệp Viễn nhận lại lệnh bài, cười nói: "Sư huynh đừng lo lắng, những điểm tích lũy này là ta đánh cược thắng được, đứng đầu lần này là người khác."
+
+Đang nói chuyện thì một thân ảnh đột nhiên đi đến từ phía sau
+
+Diệp Viễn.
+
+Người kia đưa lệnh bài cho Triệu Thấm, nói: "Sư huynh, ta muốn vào Kiếm Trủng."
+
+Lông mi Diệp Viễn giương lên, người này không phải ai khác, chính là đứng đầu Tần Thiệu.
+
+Hắn không ngờ Tần Thiệu này lại trùng hợp với mình như vậy, vừa nhập học đã đến Kiếm Trủng.
+
+Triệu Thấm hơi kinh ngạc, nói: "Mấy người mới các ngươi thật đúng là không biết trời cao đất rộng, vừa mới nhập môn đã muốn vào Kiếm Trủng. Ha ha, để các ngươi ăn chút thua thiệt cũng tốt."
+
+Tần Thiệu tiếp nhận lệnh bài trong tay từ Triệu Thấm, trực tiếp tiến nhập Kiếm Trủng, ngay cả một lời chào hỏi cũng không có.
+
+Tên này quá kiêu ngạo.
+
+Nhưng mà Diệp Viễn cũng không có cảm tình gì đối với người của
+
+Tần gia, nên hắn cũng không có hứng thú chào hỏi.
+
+Diệp Viễn cảm tạ Triệu Thấm rồi tiến nhập Kiếm Trủng.
+
+Vừa vào Kiếm Trủng, ánh mắt Diệp Viễn cũng hơi ngưng lại.
+
+Trong mắt hắn khắp nơi đều là kiếm, đếm không xuể.
+
+"Kiếm Trủng quả nhiên là danh bất hư truyền." Diệp Viễn thở dài nói.
+
+Diệp Viễn đã sớm nghe ngóng, Kiếm Trủng này chính là nơi các đại cao thủ trong quá khứ của học phủ Võ Mông chôn cất kiếm của mình, ẩn chứa vô tận kiếm ý.
+
+Hắn lựa chọn tiến nhập nơi này đầu tiên, chính là muốn lợi dụng vô tận kiếm ý ở đây, ngộ ra kiếm đạo thuộc về mình.
