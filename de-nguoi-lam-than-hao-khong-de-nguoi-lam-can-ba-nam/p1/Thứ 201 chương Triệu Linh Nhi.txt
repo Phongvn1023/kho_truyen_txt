@@ -1,0 +1,111 @@
+Thứ 201 chương Triệu Linh Nhi.
+
+Màu nền:
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Màu chữ:
+
+Bóng:
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+Helvetica
+
+Open Sans
+
+Verdana
+
+Roboto
+
+Arial
+
+Tahoma
+
+Palatino linotype
+
+Nunito
+
+Source Serif Pro
+
+Roboto Slab
+
+g.style.fontFamily = this.value;
+
+localStorage.setItem;
+
+var c = event.target.nextElementSibling.value;
+
+c=0 0 1px white;
+
+g.style.textShadow = c;
+
+localStorage.setItem;
+
+g.style.textShadow = none;
+
+localStorage.setItem;
+
+var c = 0 0 1px +v;
+
+g.style.textShadow = c;
+
+localStorage.setItem;
+
+event.target.previousElementSibling.checked=true;
+
+Nghe sách
+
+Name
