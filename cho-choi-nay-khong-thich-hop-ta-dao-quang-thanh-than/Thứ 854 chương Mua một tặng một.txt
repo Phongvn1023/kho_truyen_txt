@@ -28,7 +28,8 @@ Dương Lăng đột nhiên hỏi.
 
 Văn Thanh Dao mặt lộ vẻ do dự, cân nhắc đến dưới mắt hoàn cảnh này, vẫn là thấp giọng nói:
 
-3000.
+3000;
+
 
 3000?
 
